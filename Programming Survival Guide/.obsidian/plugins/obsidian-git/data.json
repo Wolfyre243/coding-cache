@@ -2,11 +2,7 @@
   "commitMessage": "vault backup: {{date}} by {{hostname}}. files changed: {{numFiles}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 1,
-<<<<<<< HEAD
-  "autoPushInterval": 0,
-=======
   "autoPushInterval": 1,
->>>>>>> origin/main
   "autoPullInterval": 1,
   "autoPullOnBoot": true,
   "disablePush": false,
