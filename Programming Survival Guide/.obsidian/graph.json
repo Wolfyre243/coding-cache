@@ -1,0 +1,30 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"10-19 Concepts/11 Definitions\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -0.6,
+  "nodeSizeMultiplier": 0.807871972318339,
+  "lineSizeMultiplier": 1.29956747404844,
+  "collapse-forces": false,
+  "centerStrength": 0.466262975778547,
+  "repelStrength": 9.4636678200692,
+  "linkStrength": 0.230968858131488,
+  "linkDistance": 30,
+  "scale": 0.5087618855792624,
+  "close": true
+}
