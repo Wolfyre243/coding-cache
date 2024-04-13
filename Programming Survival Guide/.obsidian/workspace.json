@@ -11,14 +11,6 @@
             "id": "d42b67f49a26b1b3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "319ed59ac830e2d2",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "20-29 The Cache/22 Library/this file exists!.md",
@@ -94,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "20-29 The Cache/22 Library/this file exists!.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "20-29 The Cache/22 Library/this file exists!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "20-29 The Cache/22 Library/this file exists!.md"
+              }
             }
           }
         ],
@@ -153,13 +149,13 @@
   },
   "active": "d42b67f49a26b1b3",
   "lastOpenFiles": [
+    "00-09 Adminstration/02 Inbox/02.001 To-do.md",
     "20-29 The Cache/21 Code Snippets/This is a test file.md",
     "20-29 The Cache/22 Library/this file exists!.md",
     "10-19 Concepts/12 Core Concepts/12.002 Recursion.md",
     "10-19 Concepts/11 Definitions/11.003 Truthy and Falsy.md",
     "10-19 Concepts/12 Core Concepts/12.001 Variables in Data Structure in Java.md",
     "10-19 Concepts/11 Definitions/11.002 Stacks.md",
-    "00-09 Adminstration/02 Inbox/02.001 To-do.md",
     "10-19 Concepts/11 Definitions/11.001 Heaps.md",
     "00-09 Adminstration/02 Inbox",
     "00-09 Adminstration/01 Templates",
