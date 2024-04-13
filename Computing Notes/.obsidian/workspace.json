@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hi.md",
+                "file": "00-09 Administration/hi.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hi.md",
+                "file": "00-09 Administration/hi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hi.md",
+                "file": "00-09 Administration/hi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hi.md"
+                "file": "00-09 Administration/hi.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "337dbd148c813957",
   "lastOpenFiles": [
-    "hi.md"
+    "Untitled",
+    "00-09 Administration",
+    "00-09 Administration/hi.md"
   ]
 }
