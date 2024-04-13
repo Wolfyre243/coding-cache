@@ -18,6 +18,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e8153e539f5ca8a1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ]
       }
@@ -147,8 +155,8 @@
   },
   "active": "5ff9fe72b6cd992c",
   "lastOpenFiles": [
-    "10-19 Concepts/11 Computer Networks & Hardware Essentials/Untitled.md",
     "10-19 Concepts/10 Introduction to Computer Architecture/10.001 Basic Function of Computers.md",
+    "10-19 Concepts/11 Computer Networks & Hardware Essentials/Untitled.md",
     "00-09 Administration/hi.md",
     "10-19 Concepts/16 Client-Server Architecture and Cloud Computing/Untitled.md",
     "10-19 Concepts/15 Linux Resource Management Fundamentals/Untitled.md",
