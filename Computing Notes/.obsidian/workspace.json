@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.001 Basic Function of Computers.md",
+                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.001 Basic Function of Computers.md",
+                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.001 Basic Function of Computers.md",
+                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.001 Basic Function of Computers.md"
+                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md"
               }
             }
           }
@@ -156,6 +156,7 @@
   "active": "5ff9fe72b6cd992c",
   "lastOpenFiles": [
     "10-19 Concepts/10 Introduction to Computer Architecture/10.001 Basic Function of Computers.md",
+    "10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
     "10-19 Concepts/11 Computer Networks & Hardware Essentials/Untitled.md",
     "00-09 Administration/hi.md",
     "10-19 Concepts/16 Client-Server Architecture and Cloud Computing/Untitled.md",
