@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10-19 Concepts/10 Parts of a Computer/Untitled.md",
+                "file": "00-09 Administration/hi.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10-19 Concepts/10 Parts of a Computer/Untitled.md",
+                "file": "00-09 Administration/hi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10-19 Concepts/10 Parts of a Computer/Untitled.md",
+                "file": "00-09 Administration/hi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10-19 Concepts/10 Parts of a Computer/Untitled.md"
+                "file": "00-09 Administration/hi.md"
               }
             }
           }
@@ -146,14 +146,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "337dbd148c813957",
+  "active": "5ff9fe72b6cd992c",
   "lastOpenFiles": [
-    "10-19 Concepts/13 Linux Basics",
+    "10-19 Concepts/11 Computer Networks & Hardware Essentials/Untitled.md",
+    "10-19 Concepts/10 Introduction to Computer Architecture/10.001 Basic Structure of Computers.md",
+    "10-19 Concepts/16 Client-Server Architecture and Cloud Computing/Untitled.md",
+    "10-19 Concepts/15 Linux Resource Management Fundamentals/Untitled.md",
+    "10-19 Concepts/14 Linux System Organisation/Untitled.md",
+    "10-19 Concepts/13 Linux Fundamentals/Untitled.md",
+    "10-19 Concepts/12 Network Protocols/Untitled.md",
+    "10-19 Concepts/16 Client-Server Architecture and Cloud Computing",
+    "10-19 Concepts/Untitled/Untitled",
+    "10-19 Concepts/15 Linux Resource Management Fundamentals",
+    "10-19 Concepts/14 Linux System Organisation",
+    "10-19 Concepts/13 Linux Fundamentals",
     "10-19 Concepts/12 Network Protocols",
     "10-19 Concepts/11 Computer Networks & Hardware Essentials",
     "00-09 Administration/hi.md",
-    "10-19 Concepts/10 Parts of a Computer/Untitled.md",
-    "10-19 Concepts/10 Parts of a Computer",
+    "10-19 Concepts/10 Introduction to Computer Architecture",
     "10-19 Concepts",
     "00-09 Administration"
   ]
