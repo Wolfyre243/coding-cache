@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "d948529f9da894ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "083ef396fe1162ac",
             "type": "leaf",
             "state": {
@@ -27,7 +39,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.001 Basic Function of Computers.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.001 Basic Function of Computers.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.001 Basic Function of Computers.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -154,13 +167,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5ff9fe72b6cd992c",
+  "active": "d948529f9da894ab",
   "lastOpenFiles": [
-    "Operating Systems.md",
+    "10-19 Concepts/10 Introduction to Computer Architecture/10.001 Basic Function of Computers.md",
+    "Untitled.md",
+    "Extras/Operating Systems.md",
     "10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
     "Extras",
     "10-19 Concepts/10 Introduction to Computer Architecture/10.001 Basic Structure of Computers.md",
-    "10-19 Concepts/10 Introduction to Computer Architecture/10.001 Basic Function of Computers.md",
     "00-09 Administration/hi.md",
     "10-19 Concepts/11 Computer Networks & Hardware Essentials/Untitled.md",
     "10-19 Concepts/16 Client-Server Architecture and Cloud Computing/Untitled.md",
