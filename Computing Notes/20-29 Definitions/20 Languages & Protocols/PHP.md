@@ -1,2 +1,2 @@
 #Language 
-used to create pages, similar to html
+used to create dynamic web pages
