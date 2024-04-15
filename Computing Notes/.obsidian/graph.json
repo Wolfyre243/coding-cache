@@ -1,7 +1,7 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
@@ -20,6 +20,13 @@
         "a": 1,
         "rgb": 15760127
       }
+    },
+    {
+      "query": "path:\"20-29 Definitions/21 Terminology\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
     }
   ],
   "collapse-display": true,
@@ -32,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.2526463714465683,
+  "scale": 1.2526463714465703,
   "close": false
 }
