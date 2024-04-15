@@ -30,9 +30,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2b24cb7817da823a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -159,10 +163,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e8153e539f5ca8a1",
+  "active": "2b24cb7817da823a",
   "lastOpenFiles": [
-    "20-29 Definitions/20 Languages & Protocols/PHP.md",
     "10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
+    "20-29 Definitions/20 Languages & Protocols/PHP.md",
     "10-19 Concepts/10 Introduction to Computer Architecture/10.003 Buses.md",
     "10-19 Concepts/10 Introduction to Computer Architecture/10.004 IO Polling & Interrupt.md",
     "10-19 Concepts/10 Introduction to Computer Architecture/10.005 BIOS & CMOS Fundamentals.md",
