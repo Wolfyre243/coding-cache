@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20-29 Definitions/20 Languages & Protocols/Databases.md",
+                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20-29 Definitions/20 Languages & Protocols/Databases.md",
+                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20-29 Definitions/20 Languages & Protocols/Databases.md",
+                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20-29 Definitions/20 Languages & Protocols/Databases.md"
+                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md"
               }
             }
           }
@@ -193,8 +193,8 @@
   },
   "active": "09cf627a58a59f44",
   "lastOpenFiles": [
-    "20-29 Definitions/20 Languages & Protocols/PHP.md",
     "20-29 Definitions/20 Languages & Protocols/Databases.md",
+    "20-29 Definitions/20 Languages & Protocols/PHP.md",
     "10-19 Concepts/10 Introduction to Computer Architecture/10.001 Basic Function of Computers.md",
     "20-29 Definitions/20 Languages & Protocols/TCPIP.md",
     "20-29 Definitions/20 Languages & Protocols/Apache.md",
