@@ -13,14 +13,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10-19 Concepts/11 Definitions/11.004 Networks.md",
+                "file": "10-19 Concepts/13 HTML and the Web/13.001 HTML 5 Document Structure.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "dd19983548114d83",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10-19 Concepts/11 Definitions/11.004 Networks.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10-19 Concepts/11 Definitions/11.004 Networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "10-19 Concepts/11 Definitions/11.004 Networks.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -147,15 +152,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d42b67f49a26b1b3",
+  "active": "dd19983548114d83",
   "lastOpenFiles": [
-    "10-19 Concepts/13 HTML and the Web/13.001 HTML 5 Document Structure.md",
     "10-19 Concepts/11 Definitions/11.004 Networks.md",
+    "10-19 Concepts/13 HTML and the Web/13.001 HTML 5 Document Structure.md",
+    "10-19 Concepts/12 Core Concepts/12.002 Recursion.md",
     "20-29 The Cache/22 Library/this file exists!.md",
     "10-19 Concepts/13 HTML and the Web",
     "00-09 Adminstration/02 Inbox/02.001 To-do.md",
     "20-29 The Cache/21 Code Snippets/This is a test file.md",
-    "10-19 Concepts/12 Core Concepts/12.002 Recursion.md",
     "10-19 Concepts/11 Definitions/11.003 Truthy and Falsy.md",
     "10-19 Concepts/12 Core Concepts/12.001 Variables in Data Structure in Java.md",
     "10-19 Concepts/11 Definitions/11.002 Stacks.md",
