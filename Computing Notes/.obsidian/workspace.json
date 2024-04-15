@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.003 Buses.md",
+                "file": "10-19 Concepts/IO Polling & Interupt.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#CPU",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,11 +98,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.003 Buses.md",
+                "file": "10-19 Concepts/IO Polling & Interupt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.003 Buses.md",
+                "file": "10-19 Concepts/IO Polling & Interupt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,11 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.003 Buses.md"
+                "file": "10-19 Concepts/IO Polling & Interupt.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -160,8 +161,10 @@
   },
   "active": "e8153e539f5ca8a1",
   "lastOpenFiles": [
-    "10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
     "10-19 Concepts/10 Introduction to Computer Architecture/10.003 Buses.md",
+    "10-19 Concepts/IO Polling & Interupt.md",
+    "10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
+    "20-29 Definitions/21 Terminology/21.001 Virtual Memory.md",
     "10-19 Concepts/10 Introduction to Computer Architecture/10.003 CPU.md",
     "20-29 Definitions/20 Languages & Protocols/PHP.md",
     "20-29 Definitions/20 Languages & Protocols/Databases.md",
@@ -170,7 +173,6 @@
     "Extras",
     "20-29 Definitions/21 Terminology/21.004 Data Paths.md",
     "20-29 Definitions/21 Terminology/21.003 Volatility.md",
-    "20-29 Definitions/21 Terminology/21.001 Virtual Memory.md",
     "20-29 Definitions/20 Languages & Protocols/TCPIP.md",
     "20-29 Definitions/21 Terminology",
     "20-29 Definitions/20 Languages & Protocols",
