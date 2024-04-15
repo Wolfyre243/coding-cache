@@ -193,6 +193,9 @@
   },
   "active": "09cf627a58a59f44",
   "lastOpenFiles": [
+    "20-29 Definitions/21 Terminology/Volatile.md",
+    "10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
+    "20-29 Definitions/21 Terminology",
     "20-29 Definitions/20 Languages & Protocols/Databases.md",
     "20-29 Definitions/20 Languages & Protocols/PHP.md",
     "10-19 Concepts/10 Introduction to Computer Architecture/10.001 Basic Function of Computers.md",
@@ -201,7 +204,6 @@
     "20-29 Definitions/20 Languages & Protocols",
     "20-29 Definitions",
     "Extras/Operating Systems.md",
-    "10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
     "Extras",
     "10-19 Concepts/10 Introduction to Computer Architecture/10.001 Basic Structure of Computers.md",
     "00-09 Administration/hi.md",
@@ -216,7 +218,6 @@
     "10-19 Concepts/15 Linux Resource Management Fundamentals",
     "10-19 Concepts/14 Linux System Organisation",
     "10-19 Concepts/13 Linux Fundamentals",
-    "10-19 Concepts/12 Network Protocols",
-    "10-19 Concepts/11 Computer Networks & Hardware Essentials"
+    "10-19 Concepts/12 Network Protocols"
   ]
 }
