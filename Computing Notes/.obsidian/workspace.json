@@ -11,8 +11,12 @@
             "id": "5ff9fe72b6cd992c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Untitled.md"
+              }
             }
           }
         ]
@@ -138,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "337dbd148c813957",
+  "active": "5ff9fe72b6cd992c",
   "lastOpenFiles": [
+    "Untitled.md",
     "Extras",
     "10-19 Concepts/10 Introduction to Computer Architecture/10.001 Basic Structure of Computers.md",
     "10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
@@ -159,7 +168,6 @@
     "10-19 Concepts/12 Network Protocols",
     "10-19 Concepts/11 Computer Networks & Hardware Essentials",
     "10-19 Concepts/10 Introduction to Computer Architecture",
-    "10-19 Concepts",
-    "00-09 Administration"
+    "10-19 Concepts"
   ]
 }
