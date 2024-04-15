@@ -4,5 +4,6 @@
   "rightToLeft": false,
   "showIndentGuide": true,
   "showLineNumber": true,
-  "foldIndent": true
+  "foldIndent": true,
+  "alwaysUpdateLinks": true
 }
