@@ -1,17 +1,24 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"10-19 Concepts/11 Definitions\"  ",
+      "query": "tag:#Language  ",
       "color": {
         "a": 1,
-        "rgb": 14069084
+        "rgb": 16744656
+      }
+    },
+    {
+      "query": "path:\"10-19 Concepts/13 HTML and the Web\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
       }
     }
   ],
@@ -25,6 +32,6 @@
   "repelStrength": 9.4636678200692,
   "linkStrength": 0.230968858131488,
   "linkDistance": 30,
-  "scale": 0.7794698881074696,
+  "scale": 1.02644539692857,
   "close": true
 }

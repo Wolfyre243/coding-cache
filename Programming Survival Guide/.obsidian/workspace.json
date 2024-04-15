@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10-19 Concepts/11 Definitions/11X Languages/11X.001 HTML.md",
+                "file": "10-19 Concepts/13 HTML and the Web/13.001 HTML 5 Document Structure.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10-19 Concepts/11 Definitions/11X Languages/11X.001 HTML.md",
+                "file": "10-19 Concepts/13 HTML and the Web/13.001 HTML 5 Document Structure.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10-19 Concepts/11 Definitions/11X Languages/11X.001 HTML.md",
+                "file": "10-19 Concepts/13 HTML and the Web/13.001 HTML 5 Document Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10-19 Concepts/11 Definitions/11X Languages/11X.001 HTML.md"
+                "file": "10-19 Concepts/13 HTML and the Web/13.001 HTML 5 Document Structure.md"
               }
             }
           }
@@ -143,7 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5
+    "width": 241.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,8 +157,8 @@
   },
   "active": "d42b67f49a26b1b3",
   "lastOpenFiles": [
-    "10-19 Concepts/11 Definitions/11.002 Stacks.md",
     "10-19 Concepts/11 Definitions/11X Languages/11X.001 HTML.md",
+    "10-19 Concepts/11 Definitions/11.002 Stacks.md",
     "10-19 Concepts/11 Definitions/11.001 Heaps.md",
     "10-19 Concepts/13 HTML and the Web/13.001 HTML 5 Document Structure.md",
     "10-19 Concepts/11 Definitions/11X Languages",
