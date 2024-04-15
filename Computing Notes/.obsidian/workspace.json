@@ -18,6 +18,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "083ef396fe1162ac",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ]
       }
@@ -148,10 +156,10 @@
   },
   "active": "5ff9fe72b6cd992c",
   "lastOpenFiles": [
+    "10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
     "Operating Systems.md",
     "Extras",
     "10-19 Concepts/10 Introduction to Computer Architecture/10.001 Basic Structure of Computers.md",
-    "10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
     "10-19 Concepts/10 Introduction to Computer Architecture/10.001 Basic Function of Computers.md",
     "00-09 Administration/hi.md",
     "10-19 Concepts/11 Computer Networks & Hardware Essentials/Untitled.md",
