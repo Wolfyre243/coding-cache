@@ -27,7 +27,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -154,10 +151,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "09cf627a58a59f44",
+  "active": "083ef396fe1162ac",
   "lastOpenFiles": [
-    "20-29 Definitions/21 Terminology/21.002 Bus.md",
     "10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
+    "20-29 Definitions/21 Terminology/21.002 Bus.md",
     "20-29 Definitions/20 Languages & Protocols/TCPIP.md",
     "20-29 Definitions/20 Languages & Protocols/PHP.md",
     "20-29 Definitions/20 Languages & Protocols/Databases.md",
