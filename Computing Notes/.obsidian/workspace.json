@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating Systems.md",
+                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.001 Basic Function of Computers.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating Systems.md",
+                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.001 Basic Function of Computers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating Systems.md",
+                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.001 Basic Function of Computers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating Systems.md"
+                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.001 Basic Function of Computers.md"
               }
             }
           }
@@ -156,8 +156,8 @@
   },
   "active": "5ff9fe72b6cd992c",
   "lastOpenFiles": [
-    "10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
     "Operating Systems.md",
+    "10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
     "Extras",
     "10-19 Concepts/10 Introduction to Computer Architecture/10.001 Basic Structure of Computers.md",
     "10-19 Concepts/10 Introduction to Computer Architecture/10.001 Basic Function of Computers.md",
