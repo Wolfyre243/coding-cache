@@ -2,11 +2,12 @@
 	"nodes":[
 		{"id":"bee31726b2b2c650","type":"text","text":"Bus","x":-243,"y":-160,"width":417,"height":60},
 		{"id":"1a2e875911490038","type":"text","text":"L3 Cache (Slowest)","x":-243,"y":-60,"width":208,"height":60},
-		{"id":"7acf7a004ea68498","type":"text","text":"L2 Cache","x":-243,"y":40,"width":208,"height":60},
 		{"id":"3e139dde501773e6","type":"text","text":"L1d Cache","x":-243,"y":140,"width":208,"height":60},
 		{"id":"4301d526e795457d","type":"text","text":"L1i Cache","x":20,"y":40,"width":196,"height":60},
 		{"id":"c5f59ba9d94f1d47","type":"text","text":"CPU Cache","x":20,"y":140,"width":196,"height":60},
-		{"id":"e90cd279bdb294a6","type":"text","text":"Main Memory","x":-160,"y":-260,"width":250,"height":60}
+		{"id":"e90cd279bdb294a6","type":"text","text":"Main Memory","x":-160,"y":-260,"width":250,"height":60},
+		{"id":"7acf7a004ea68498","type":"text","text":"L2 Cache","x":-243,"y":40,"width":208,"height":60},
+		{"id":"e8cb49db89f579c5","x":260,"y":-120,"width":320,"height":90,"type":"text","text":"L1d stands for L1 data cache\nL1i stands for L1 instruction cache"}
 	],
 	"edges":[
 		{"id":"1c2ac151ee6546b5","fromNode":"7acf7a004ea68498","fromSide":"right","toNode":"4301d526e795457d","toSide":"left"},
