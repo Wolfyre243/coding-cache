@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
+                "file": "20-29 Definitions/21 Terminology/21.007 Cache Memory.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
+                "file": "20-29 Definitions/21 Terminology/21.007 Cache Memory.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
+                "file": "20-29 Definitions/21 Terminology/21.007 Cache Memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md"
+                "file": "20-29 Definitions/21 Terminology/21.007 Cache Memory.md"
               }
             }
           }
@@ -168,8 +168,9 @@
   },
   "active": "0d50afd237956592",
   "lastOpenFiles": [
-    "20-29 Definitions/20 Languages & Protocols/Databases.md",
     "10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
+    "20-29 Definitions/21 Terminology/21.007 Cache Memory.md",
+    "20-29 Definitions/20 Languages & Protocols/Databases.md",
     "10-19 Concepts/10 Introduction to Computer Architecture/10.003 Buses.md",
     "20-29 Definitions/21 Terminology/21.006 Flash Memory.md",
     "20-29 Definitions/21 Terminology/21.005 Operating Systems.md",
@@ -197,7 +198,6 @@
     "10-19 Concepts/15 Linux Resource Management Fundamentals/Untitled.md",
     "10-19 Concepts/14 Linux System Organisation/Untitled.md",
     "10-19 Concepts/13 Linux Fundamentals/Untitled.md",
-    "10-19 Concepts/12 Network Protocols/Untitled.md",
     "10-19 Concepts/16 Client-Server Architecture and Cloud Computing",
     "10-19 Concepts/Untitled/Untitled",
     "10-19 Concepts/15 Linux Resource Management Fundamentals",
