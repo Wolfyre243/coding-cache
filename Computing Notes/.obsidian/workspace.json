@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bus",
+                "query": "cpu cache",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -172,7 +172,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "344660bb9ec10320",
+  "active": "433c96a6b5ae4b11",
   "lastOpenFiles": [
     "20-29 Definitions/21 Terminology/21.004 Data Paths.md",
     "10-19 Concepts/10 Introduction to Computer Architecture/10.004 IO Polling & Interrupt.md",
