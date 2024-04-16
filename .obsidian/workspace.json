@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.007 Types of Computers.md",
+                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.008 Functional Units.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,9 +93,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.007 Types of Computers.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.008 Functional Units.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.007 Types of Computers.md",
+                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.008 Functional Units.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.007 Types of Computers.md"
+                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.008 Functional Units.md"
               }
             }
           }
@@ -141,8 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,16 +155,18 @@
   },
   "active": "30163ef836b952d6",
   "lastOpenFiles": [
+    "Computing Notes/20-29 Definitions/21 Terminology/21.009 Memory Bandwidth.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.010 Bits and Bytes.md",
+    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
+    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.008 Functional Units.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.006 Fundamentals of Network Communication.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.007 Cache Memory.md",
+    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.001 Basic Function of Computers.md",
+    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.007 Types of Computers.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.005 BIOS & CMOS Fundamentals.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.004 IO Polling & Interrupt.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.003 Buses.md",
-    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
-    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.001 Basic Function of Computers.md",
-    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.007 Types of Computers.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.004 Data Paths.md",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.009 Memory Bandwidth.md",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.007X Cache Memory Diagram.canvas",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.007 Cache Memory.md"
+    "Computing Notes/20-29 Definitions/21 Terminology/21.007X Cache Memory Diagram.canvas"
   ]
 }
