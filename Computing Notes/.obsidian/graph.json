@@ -8,7 +8,7 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#Computer  ",
+      "query": "path:\"10-19 Concepts/10 Introduction to Computer Architecture\"  ",
       "color": {
         "a": 1,
         "rgb": 14048348
@@ -30,15 +30,15 @@
     }
   ],
   "collapse-display": false,
-  "showArrow": true,
+  "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 0.993229166666667,
   "lineSizeMultiplier": 1.52916666666667,
   "collapse-forces": false,
-  "centerStrength": 0.458333333333333,
-  "repelStrength": 8.64583333333333,
-  "linkStrength": 1,
-  "linkDistance": 282,
-  "scale": 0.8410179241582805,
-  "close": true
+  "centerStrength": 0.276041666666667,
+  "repelStrength": 7.29166666666667,
+  "linkStrength": 0.234375,
+  "linkDistance": 500,
+  "scale": 0.8410179241582807,
+  "close": false
 }
