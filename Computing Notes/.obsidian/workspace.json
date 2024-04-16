@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.004 IO Polling & Interrupt.md",
+                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.007 Types of Computers.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.004 IO Polling & Interrupt.md",
+                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.007 Types of Computers.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.004 IO Polling & Interrupt.md",
+                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.007 Types of Computers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.004 IO Polling & Interrupt.md"
+                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.007 Types of Computers.md"
               }
             }
           }
@@ -173,14 +173,14 @@
   },
   "active": "344660bb9ec10320",
   "lastOpenFiles": [
+    "10-19 Concepts/10 Introduction to Computer Architecture/10.006 Fundamentals of Network Communication.md",
+    "10-19 Concepts/10 Introduction to Computer Architecture/10.005 BIOS & CMOS Fundamentals.md",
+    "10-19 Concepts/10 Introduction to Computer Architecture/10.004 IO Polling & Interrupt.md",
     "10-19 Concepts/10 Introduction to Computer Architecture/10.003 Buses.md",
     "10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
     "10-19 Concepts/10 Introduction to Computer Architecture/10.001 Basic Function of Computers.md",
     "20-29 Definitions/21 Terminology/21.007 Cache Memory.md",
     "20-29 Definitions/21 Terminology/21.004 Data Paths.md",
-    "10-19 Concepts/10 Introduction to Computer Architecture/10.004 IO Polling & Interrupt.md",
-    "10-19 Concepts/10 Introduction to Computer Architecture/10.005 BIOS & CMOS Fundamentals.md",
-    "10-19 Concepts/10 Introduction to Computer Architecture/10.006 Fundamentals of Network Communication.md",
     "10-19 Concepts/10 Introduction to Computer Architecture/10.007 Types of Computers.md",
     "20-29 Definitions/21 Terminology/21.007X Cache Memory Diagram.canvas",
     "20-29 Definitions/21 Terminology/21.006 Flash Memory.md",
