@@ -8,7 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0d50afd237956592",
+            "id": "5ff9fe72b6cd992c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.005 BIOS & CMOS Fundamentals.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e8153e539f5ca8a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,19 +32,14 @@
             }
           },
           {
-            "id": "37ae5f035f1266ef",
+            "id": "2b24cb7817da823a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.005 BIOS & CMOS Fundamentals.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cpu cache",
+                "query": "tag:#CPU",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,10 +106,10 @@
               "type": "backlink",
               "state": {
                 "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.005 BIOS & CMOS Fundamentals.md",
-                "collapseAll": true,
-                "extraContext": true,
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -147,7 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,39 +166,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37ae5f035f1266ef",
+  "active": "5ff9fe72b6cd992c",
   "lastOpenFiles": [
+    "20-29 Definitions/21 Terminology/21.008 ROM.md",
+    "20-29 Definitions/21 Terminology/21.007X Cache Memory Diagram.canvas",
+    "20-29 Definitions/21 Terminology/21.007 Cache Memory.md",
+    "20-29 Definitions/21 Terminology/21.006 Flash Memory.md",
+    "20-29 Definitions/21 Terminology/21.002 Cores.md",
     "10-19 Concepts/10 Introduction to Computer Architecture/10.007 Types of Computers.md",
     "10-19 Concepts/10 Introduction to Computer Architecture/10.006 Fundamentals of Network Communication.md",
-    "10-19 Concepts/10 Introduction to Computer Architecture/10.005 BIOS & CMOS Fundamentals.md",
-    "10-19 Concepts/10 Introduction to Computer Architecture/10.004 IO Polling & Interrupt.md",
-    "10-19 Concepts/10 Introduction to Computer Architecture/10.003 Buses.md",
     "10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
-    "10-19 Concepts/10 Introduction to Computer Architecture/10.001 Basic Function of Computers.md",
-    "20-29 Definitions/21 Terminology/21.007 Cache Memory.md",
-    "20-29 Definitions/21 Terminology/21.004 Data Paths.md",
-    "20-29 Definitions/21 Terminology/21.007X Cache Memory Diagram.canvas",
-    "20-29 Definitions/21 Terminology/21.006 Flash Memory.md",
-    "20-29 Definitions/21 Terminology/21.001 Virtual Memory.md",
-    "20-29 Definitions/21 Terminology/21.007X Cache Memory diagram.canvas",
-    "20-29 Definitions/21 Terminology/21.008 ROM.md",
-    "20-29 Definitions/20 Languages & Protocols/Databases.md",
-    "20-29 Definitions/21 Terminology/21.005 Operating Systems.md",
-    "20-29 Definitions/21 Terminology/21.003 Volatility.md",
-    "20-29 Definitions/21 Terminology/21.002 Cores.md",
-    "20-29 Definitions/21 Terminology/21.002 Bus.md",
-    "20-29 Definitions/20 Languages & Protocols/TCPIP.md",
+    "10-19 Concepts/10 Introduction to Computer Architecture/10.004 IO Polling & Interrupt.md",
     "20-29 Definitions/20 Languages & Protocols/PHP.md",
+    "10-19 Concepts/10 Introduction to Computer Architecture/10.003 Buses.md",
+    "10-19 Concepts/10 Introduction to Computer Architecture/10.005 BIOS & CMOS Fundamentals.md",
+    "20-29 Definitions/21 Terminology/21.005 Operating Systems.md",
+    "20-29 Definitions/21 Terminology/21.001 Virtual Memory.md",
+    "10-19 Concepts/10 Introduction to Computer Architecture/10.003 CPU.md",
+    "20-29 Definitions/20 Languages & Protocols/Databases.md",
     "20-29 Definitions/20 Languages & Protocols/Apache.md",
-    "20-29 Definitions/21 Terminology/Data Paths.md",
+    "Extras",
+    "20-29 Definitions/21 Terminology/21.004 Data Paths.md",
+    "20-29 Definitions/21 Terminology/21.003 Volatility.md",
+    "20-29 Definitions/20 Languages & Protocols/TCPIP.md",
     "20-29 Definitions/21 Terminology",
     "20-29 Definitions/20 Languages & Protocols",
     "20-29 Definitions",
-    "Extras/Operating Systems.md",
-    "Extras",
-    "10-19 Concepts/10 Introduction to Computer Architecture/10.001 Basic Structure of Computers.md",
-    "00-09 Administration/hi.md",
+    "10-19 Concepts/10 Introduction to Computer Architecture/10.001 Basic Function of Computers.md",
     "10-19 Concepts/11 Computer Networks & Hardware Essentials/Untitled.md",
+    "00-09 Administration/hi.md",
+    "10-19 Concepts/16 Client-Server Architecture and Cloud Computing/Untitled.md",
+    "10-19 Concepts/15 Linux Resource Management Fundamentals/Untitled.md",
+    "10-19 Concepts/14 Linux System Organisation/Untitled.md",
+    "10-19 Concepts/13 Linux Fundamentals/Untitled.md",
     "10-19 Concepts/16 Client-Server Architecture and Cloud Computing",
     "10-19 Concepts/Untitled/Untitled",
     "10-19 Concepts/15 Linux Resource Management Fundamentals",
