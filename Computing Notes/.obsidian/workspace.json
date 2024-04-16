@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "344660bb9ec10320",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.007 Types of Computers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.007 Types of Computers.md",
+                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.005 BIOS & CMOS Fundamentals.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.007 Types of Computers.md",
+                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.005 BIOS & CMOS Fundamentals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.007 Types of Computers.md"
+                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.005 BIOS & CMOS Fundamentals.md"
               }
             }
           }
@@ -171,8 +159,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "344660bb9ec10320",
+  "active": "37ae5f035f1266ef",
   "lastOpenFiles": [
+    "10-19 Concepts/10 Introduction to Computer Architecture/10.007 Types of Computers.md",
     "10-19 Concepts/10 Introduction to Computer Architecture/10.006 Fundamentals of Network Communication.md",
     "10-19 Concepts/10 Introduction to Computer Architecture/10.005 BIOS & CMOS Fundamentals.md",
     "10-19 Concepts/10 Introduction to Computer Architecture/10.004 IO Polling & Interrupt.md",
@@ -181,7 +170,6 @@
     "10-19 Concepts/10 Introduction to Computer Architecture/10.001 Basic Function of Computers.md",
     "20-29 Definitions/21 Terminology/21.007 Cache Memory.md",
     "20-29 Definitions/21 Terminology/21.004 Data Paths.md",
-    "10-19 Concepts/10 Introduction to Computer Architecture/10.007 Types of Computers.md",
     "20-29 Definitions/21 Terminology/21.007X Cache Memory Diagram.canvas",
     "20-29 Definitions/21 Terminology/21.006 Flash Memory.md",
     "20-29 Definitions/21 Terminology/21.001 Virtual Memory.md",
