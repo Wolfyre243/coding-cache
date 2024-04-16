@@ -11,11 +11,14 @@
             "id": "0d50afd237956592",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.005 BIOS & CMOS Fundamentals.md",
-                "mode": "source",
-                "source": false
+                "file": "20-29 Definitions/21 Terminology/21.007X Cache Memory Diagram.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.005 BIOS & CMOS Fundamentals.md",
+                "file": "20-29 Definitions/21 Terminology/21.007X Cache Memory Diagram.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.005 BIOS & CMOS Fundamentals.md",
+                "file": "20-29 Definitions/21 Terminology/21.007X Cache Memory Diagram.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.005 BIOS & CMOS Fundamentals.md"
+                "file": "20-29 Definitions/21 Terminology/21.007X Cache Memory Diagram.canvas"
               }
             }
           }
@@ -148,20 +151,20 @@
   },
   "active": "0d50afd237956592",
   "lastOpenFiles": [
-    "20-29 Definitions/21 Terminology/21.007X Cache Memory Diagram.canvas",
+    "20-29 Definitions/21 Terminology/21.007 Cache Memory.md",
+    "20-29 Definitions/21 Terminology/21.006 Flash Memory.md",
+    "20-29 Definitions/21 Terminology/21.001 Virtual Memory.md",
     "10-19 Concepts/10 Introduction to Computer Architecture/10.005 BIOS & CMOS Fundamentals.md",
+    "20-29 Definitions/21 Terminology/21.007X Cache Memory Diagram.canvas",
     "20-29 Definitions/21 Terminology/21.007X Cache Memory diagram.canvas",
     "20-29 Definitions/21 Terminology/21.008 ROM.md",
-    "20-29 Definitions/21 Terminology/21.007 Cache Memory.md",
     "10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
     "20-29 Definitions/20 Languages & Protocols/Databases.md",
     "10-19 Concepts/10 Introduction to Computer Architecture/10.003 Buses.md",
-    "20-29 Definitions/21 Terminology/21.006 Flash Memory.md",
     "20-29 Definitions/21 Terminology/21.005 Operating Systems.md",
     "20-29 Definitions/21 Terminology/21.004 Data Paths.md",
     "20-29 Definitions/21 Terminology/21.003 Volatility.md",
     "20-29 Definitions/21 Terminology/21.002 Cores.md",
-    "20-29 Definitions/21 Terminology/21.001 Virtual Memory.md",
     "10-19 Concepts/10 Introduction to Computer Architecture/10.004 IO Polling & Interrupt.md",
     "10-19 Concepts/10 Introduction to Computer Architecture/10.001 Basic Function of Computers.md",
     "20-29 Definitions/21 Terminology/21.002 Bus.md",
