@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.001 Basic Function of Computers.md",
+                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.004 IO Polling & Interrupt.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.001 Basic Function of Computers.md",
+                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.004 IO Polling & Interrupt.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.001 Basic Function of Computers.md",
+                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.004 IO Polling & Interrupt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.001 Basic Function of Computers.md"
+                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.004 IO Polling & Interrupt.md"
               }
             }
           }
@@ -173,11 +173,12 @@
   },
   "active": "344660bb9ec10320",
   "lastOpenFiles": [
-    "20-29 Definitions/21 Terminology/21.007 Cache Memory.md",
+    "10-19 Concepts/10 Introduction to Computer Architecture/10.003 Buses.md",
     "10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
+    "10-19 Concepts/10 Introduction to Computer Architecture/10.001 Basic Function of Computers.md",
+    "20-29 Definitions/21 Terminology/21.007 Cache Memory.md",
     "20-29 Definitions/21 Terminology/21.004 Data Paths.md",
     "10-19 Concepts/10 Introduction to Computer Architecture/10.004 IO Polling & Interrupt.md",
-    "10-19 Concepts/10 Introduction to Computer Architecture/10.003 Buses.md",
     "10-19 Concepts/10 Introduction to Computer Architecture/10.005 BIOS & CMOS Fundamentals.md",
     "10-19 Concepts/10 Introduction to Computer Architecture/10.006 Fundamentals of Network Communication.md",
     "10-19 Concepts/10 Introduction to Computer Architecture/10.007 Types of Computers.md",
@@ -190,7 +191,6 @@
     "20-29 Definitions/21 Terminology/21.005 Operating Systems.md",
     "20-29 Definitions/21 Terminology/21.003 Volatility.md",
     "20-29 Definitions/21 Terminology/21.002 Cores.md",
-    "10-19 Concepts/10 Introduction to Computer Architecture/10.001 Basic Function of Computers.md",
     "20-29 Definitions/21 Terminology/21.002 Bus.md",
     "20-29 Definitions/20 Languages & Protocols/TCPIP.md",
     "20-29 Definitions/20 Languages & Protocols/PHP.md",
