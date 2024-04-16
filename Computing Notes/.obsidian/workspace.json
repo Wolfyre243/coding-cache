@@ -29,7 +29,8 @@
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "350f1769ec1b6af1"
           },
           {
             "id": "2b24cb7817da823a",
@@ -40,7 +41,49 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
+      },
+      {
+        "id": "3e1be004245223b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2381e10778489f87",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "350f1769ec1b6af1"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,6 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +188,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md"
+              }
             }
           }
         ],
@@ -163,7 +210,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2b24cb7817da823a",
+  "active": "2381e10778489f87",
   "lastOpenFiles": [
     "10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
     "10-19 Concepts/10 Introduction to Computer Architecture/10.003 Buses.md",
