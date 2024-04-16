@@ -39,7 +39,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.003 Buses.md",
+                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.003 Buses.md",
+                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.003 Buses.md"
+                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md"
               }
             }
           }
@@ -166,8 +167,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5ff9fe72b6cd992c",
+  "active": "e8153e539f5ca8a1",
   "lastOpenFiles": [
+    "10-19 Concepts/10 Introduction to Computer Architecture/10.003 Buses.md",
     "10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
     "20-29 Definitions/21 Terminology/21.007 Cache Memory.md",
     "20-29 Definitions/21 Terminology/21.007X Cache Memory Diagram.canvas",
@@ -180,7 +182,6 @@
     "20-29 Definitions/21 Terminology/21.002 Cores.md",
     "10-19 Concepts/10 Introduction to Computer Architecture/10.004 IO Polling & Interrupt.md",
     "20-29 Definitions/20 Languages & Protocols/PHP.md",
-    "10-19 Concepts/10 Introduction to Computer Architecture/10.003 Buses.md",
     "20-29 Definitions/21 Terminology/21.005 Operating Systems.md",
     "20-29 Definitions/21 Terminology/21.001 Virtual Memory.md",
     "10-19 Concepts/10 Introduction to Computer Architecture/10.003 CPU.md",
