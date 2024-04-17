@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math part 2/1 Matrices/1.001 Types of Matrices.md",
+                "file": "Programming Survival Guide/10-19 Concepts/14 JavaScript/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math part 2/1 Matrices/1.001 Types of Matrices.md",
+                "file": "Programming Survival Guide/10-19 Concepts/14 JavaScript/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math part 2/1 Matrices/1.001 Types of Matrices.md",
+                "file": "Programming Survival Guide/10-19 Concepts/14 JavaScript/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math part 2/1 Matrices/1.001 Types of Matrices.md"
+                "file": "Programming Survival Guide/10-19 Concepts/14 JavaScript/Untitled.md"
               }
             }
           }
@@ -156,8 +156,11 @@
   },
   "active": "30163ef836b952d6",
   "lastOpenFiles": [
-    "Untitled.canvas",
     "Math part 2/1 Matrices/1.001 Types of Matrices.md",
+    "Programming Survival Guide/10-19 Concepts/14 JavaScript/Untitled.md",
+    "Programming Survival Guide/10-19 Concepts/14 JavaScript",
+    "Programming Survival Guide/10-19 Concepts/14 Javascript.md",
+    "Untitled.canvas",
     "Math part 2/1 Matrices/1.002 Matrix Operations.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
     "Math part 2/1 Matrices",
