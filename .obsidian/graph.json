@@ -20,6 +20,20 @@
         "a": 1,
         "rgb": 14876248
       }
+    },
+    {
+      "query": "path:\"Programming Survival Guide/10-19 Concepts/14 JavaScript\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6082262
+      }
+    },
+    {
+      "query": "path:\"Programming Survival Guide/10-19 Concepts/13 HTML and the Web\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16749824
+      }
     }
   ],
   "collapse-display": false,
@@ -32,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.6372987299011724,
+  "scale": 0.9442268667315079,
   "close": true
 }
