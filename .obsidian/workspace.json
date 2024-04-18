@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Survival Guide/00 - 09 Adminstration/01 All the Best Practices.md",
+                "file": "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.003 Data Types.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Survival Guide/00 - 09 Adminstration/01 All the Best Practices.md",
+                "file": "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.003 Data Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Survival Guide/00 - 09 Adminstration/01 All the Best Practices.md",
+                "file": "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.003 Data Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Survival Guide/00 - 09 Adminstration/01 All the Best Practices.md"
+                "file": "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.003 Data Types.md"
               }
             }
           }
@@ -156,17 +156,19 @@
   },
   "active": "30163ef836b952d6",
   "lastOpenFiles": [
-    "Programming Survival Guide/00 - 09 Adminstration/00 Homepage.md",
+    "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.001 Variables in Data Structure in Java.md",
+    "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.003 Data Types.md",
+    "Programming Survival Guide/10-19 Concepts/14 JavaScript/14.001 Initialising Variables.md",
+    "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.004 Special Math Functions.md",
     "Programming Survival Guide/00 - 09 Adminstration/01 All the Best Practices.md",
+    "Programming Survival Guide/00 - 09 Adminstration/00 Homepage.md",
     "Programming Survival Guide/10-19 Concepts/11 Definitions/11.005 Identifiers.md",
     "Programming Survival Guide/00 - 09 Adminstration/00",
     "Programming Survival Guide/00 - 09 Adminstration",
-    "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.001 Variables in Data Structure in Java.md",
     "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.002 Recursion.md",
     "Programming Survival Guide/10-19 Concepts/11 Definitions/11.004 Networks.md",
     "Programming Survival Guide/10-19 Concepts/11 Definitions/11.001 Heaps.md",
     "Programming Survival Guide/10-19 Concepts/11 Definitions/11.002 Stacks.md",
-    "Programming Survival Guide/10-19 Concepts/14 JavaScript/Untitled.md",
     "Math part 2/1 Matrices/1.001 Types of Matrices.md",
     "Programming Survival Guide/10-19 Concepts/14 JavaScript",
     "Programming Survival Guide/10-19 Concepts/14 Javascript.md",
