@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.003 Data Types.md",
+                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.010 Bits and Bytes.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.003 Data Types.md",
+                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.010 Bits and Bytes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.003 Data Types.md",
+                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.010 Bits and Bytes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.003 Data Types.md"
+                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.010 Bits and Bytes.md"
               }
             }
           }
@@ -156,8 +156,8 @@
   },
   "active": "30163ef836b952d6",
   "lastOpenFiles": [
-    "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.001 Variables in Data Structure in Java.md",
     "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.003 Data Types.md",
+    "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.001 Variables in Data Structure in Java.md",
     "Programming Survival Guide/10-19 Concepts/14 JavaScript/14.001 Initialising Variables.md",
     "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.004 Special Math Functions.md",
     "Programming Survival Guide/00 - 09 Adminstration/01 All the Best Practices.md",
