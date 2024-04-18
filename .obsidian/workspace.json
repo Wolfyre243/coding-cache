@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.005 Character Sets.md",
+                "file": "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.007 HTML Attributes.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "566a783d304b39ed",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.005 Character Sets.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.005 Character Sets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.005 Character Sets.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -145,12 +150,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "157140dbfd28667f",
+  "active": "566a783d304b39ed",
   "lastOpenFiles": [
-    "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.006 Folder Paths.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.008 ROM.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.007 HTML Attributes.md",
-    "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.005 Character Sets.md",
+    "Programming Survival Guide/00 - 09 Adminstration/01 All the Best Practices.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.004 HTML Element Tags.md",
+    "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.006 Folder Paths.md",
+    "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.005 Character Sets.md",
     "Programming Survival Guide/10-19 Concepts/14 JavaScript/14.001 Initialising Variables.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.005 BIOS & CMOS Fundamentals.md",
     "conflict-files-obsidian-git.md",
@@ -160,7 +167,6 @@
     "Programming Survival Guide/10-19 Concepts/14 JavaScript/Untitled.md",
     "Programming Survival Guide/10-19 Concepts/14 JavaScript",
     "Programming Survival Guide/10-19 Concepts/11 Definitions/11.005 Identifiers.md",
-    "Programming Survival Guide/00 - 09 Adminstration/01 All the Best Practices.md",
     "Programming Survival Guide/00 - 09 Adminstration/00 Homepage.md",
     "Programming Survival Guide/00 - 09 Adminstration",
     "Math part 2/1 Matrices/1.002 Matrix Operations.md",
@@ -168,7 +174,6 @@
     "Math part 2/1 Matrices",
     "Math part 2",
     "Computing Notes/20-29 Definitions/21 Terminology/21.007X Cache Memory Diagram.canvas",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.008 ROM.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.010 Bits and Bytes.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.009 Memory Bandwidth.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.007 Cache Memory.md",
