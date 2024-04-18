@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Survival Guide/00 - 09 Adminstration/01 All the Best Practices.md",
+                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.005 BIOS & CMOS Fundamentals.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,9 +93,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Survival Guide/00 - 09 Adminstration/01 All the Best Practices.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.005 BIOS & CMOS Fundamentals.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Survival Guide/00 - 09 Adminstration/01 All the Best Practices.md",
+                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.005 BIOS & CMOS Fundamentals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Survival Guide/00 - 09 Adminstration/01 All the Best Practices.md"
+                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.005 BIOS & CMOS Fundamentals.md"
               }
             }
           }
@@ -141,8 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,30 +155,34 @@
   },
   "active": "30163ef836b952d6",
   "lastOpenFiles": [
-    "Programming Survival Guide/00 - 09 Adminstration/00 Homepage.md",
-    "Programming Survival Guide/00 - 09 Adminstration/01 All the Best Practices.md",
-    "Programming Survival Guide/10-19 Concepts/11 Definitions/11.005 Identifiers.md",
-    "Programming Survival Guide/00 - 09 Adminstration/00",
-    "Programming Survival Guide/00 - 09 Adminstration",
-    "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.001 Variables in Data Structure in Java.md",
-    "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.002 Recursion.md",
-    "Programming Survival Guide/10-19 Concepts/11 Definitions/11.004 Networks.md",
-    "Programming Survival Guide/10-19 Concepts/11 Definitions/11.001 Heaps.md",
-    "Programming Survival Guide/10-19 Concepts/11 Definitions/11.002 Stacks.md",
+    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.001 Basic Function of Computers.md",
     "Programming Survival Guide/10-19 Concepts/14 JavaScript/Untitled.md",
-    "Math part 2/1 Matrices/1.001 Types of Matrices.md",
     "Programming Survival Guide/10-19 Concepts/14 JavaScript",
-    "Programming Survival Guide/10-19 Concepts/14 Javascript.md",
-    "Untitled.canvas",
+    "Programming Survival Guide/10-19 Concepts/11 Definitions/11.005 Identifiers.md",
+    "Programming Survival Guide/00 - 09 Adminstration/01 All the Best Practices.md",
+    "Programming Survival Guide/00 - 09 Adminstration/00 Homepage.md",
+    "Programming Survival Guide/00 - 09 Adminstration",
     "Math part 2/1 Matrices/1.002 Matrix Operations.md",
-    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
+    "Math part 2/1 Matrices/1.001 Types of Matrices.md",
     "Math part 2/1 Matrices",
     "Math part 2",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.007X Cache Memory Diagram.canvas",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.008 ROM.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.010 Bits and Bytes.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.009 Memory Bandwidth.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.007 Cache Memory.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.006 Flash Memory.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.005 Operating Systems.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.004 Data Paths.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.003 Volatility.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.001 Virtual Memory.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.002 Cores.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.008 Functional Units.md",
+    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.007 Types of Computers.md",
+    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.006 Fundamentals of Network Communication.md",
+    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.005 BIOS & CMOS Fundamentals.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.004 IO Polling & Interrupt.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.003 Buses.md",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.007X Cache Memory Diagram.canvas"
+    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md"
   ]
 }
