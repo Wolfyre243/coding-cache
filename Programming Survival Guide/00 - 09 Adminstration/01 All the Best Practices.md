@@ -7,4 +7,7 @@ End each statement with a semicolon
 
 When naming variables, make them descriptive and meaningful.
 - Use camelCase, lowercase, etc
-- 
+
+# HTML BEST PRACTICES
+Name the home page file `index.html`
+- Makes it the landing page for any website.
