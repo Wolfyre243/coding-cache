@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.005 BIOS & CMOS Fundamentals.md",
+                "file": "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.004 HTML Element Tags.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.005 BIOS & CMOS Fundamentals.md",
+                "file": "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.004 HTML Element Tags.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.005 BIOS & CMOS Fundamentals.md",
+                "file": "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.004 HTML Element Tags.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.005 BIOS & CMOS Fundamentals.md"
+                "file": "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.004 HTML Element Tags.md"
               }
             }
           }
@@ -147,9 +147,9 @@
   },
   "active": "157140dbfd28667f",
   "lastOpenFiles": [
+    "Programming Survival Guide/10-19 Concepts/14 JavaScript/14.001 Initialising Variables.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.005 BIOS & CMOS Fundamentals.md",
     "conflict-files-obsidian-git.md",
-    "Programming Survival Guide/10-19 Concepts/14 JavaScript/14.001 Initialising Variables.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.007 Attributes.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.006 Folder Paths.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.005 Character Sets.md",
