@@ -18,17 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "566a783d304b39ed",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,38 +145,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "566a783d304b39ed",
+  "active": "157140dbfd28667f",
   "lastOpenFiles": [
+    "Math part 2/1 Matrices/1.001 Types of Matrices.md",
+    "Math part 2/1 Matrices/1.002 Matrix Operations.md",
+    "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.004 Math Functions.md",
+    "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.003 Data Types.md",
+    "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.002 Recursion.md",
+    "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.001 Variables in Data Structure in Java.md",
+    "Programming Survival Guide/10-19 Concepts/14 JavaScript/14.001 Initialising Variables.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.007X Cache Memory Diagram.canvas",
     "Computing Notes/20-29 Definitions/21 Terminology/21.008 ROM.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.007 HTML Attributes.md",
     "Programming Survival Guide/00 - 09 Adminstration/01 All the Best Practices.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.004 HTML Element Tags.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.006 Folder Paths.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.005 Character Sets.md",
-    "Programming Survival Guide/10-19 Concepts/14 JavaScript/14.001 Initialising Variables.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.005 BIOS & CMOS Fundamentals.md",
     "conflict-files-obsidian-git.md",
-    "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.004 Math Functions.md",
-    "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.003 Data Types.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.001 Basic Function of Computers.md",
     "Programming Survival Guide/10-19 Concepts/14 JavaScript/Untitled.md",
     "Programming Survival Guide/10-19 Concepts/14 JavaScript",
     "Programming Survival Guide/10-19 Concepts/11 Definitions/11.005 Identifiers.md",
     "Programming Survival Guide/00 - 09 Adminstration/00 Homepage.md",
     "Programming Survival Guide/00 - 09 Adminstration",
-    "Math part 2/1 Matrices/1.002 Matrix Operations.md",
-    "Math part 2/1 Matrices/1.001 Types of Matrices.md",
     "Math part 2/1 Matrices",
     "Math part 2",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.007X Cache Memory Diagram.canvas",
     "Computing Notes/20-29 Definitions/21 Terminology/21.010 Bits and Bytes.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.009 Memory Bandwidth.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.007 Cache Memory.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.006 Flash Memory.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.005 Operating Systems.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.004 Data Paths.md",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.003 Volatility.md",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.001 Virtual Memory.md",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.002 Cores.md"
+    "Computing Notes/20-29 Definitions/21 Terminology/21.003 Volatility.md"
   ]
 }
