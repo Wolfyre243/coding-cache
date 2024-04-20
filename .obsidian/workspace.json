@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.009 Browser Extensions.md",
+                "file": "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.008 Enter CSS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.009 Browser Extensions.md",
+                "file": "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.008 Enter CSS.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.009 Browser Extensions.md",
+                "file": "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.008 Enter CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.009 Browser Extensions.md"
+                "file": "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.008 Enter CSS.md"
               }
             }
           }
@@ -147,8 +147,8 @@
   },
   "active": "157140dbfd28667f",
   "lastOpenFiles": [
-    "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.008 Enter CSS.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.009 Browser Extensions.md",
+    "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.008 Enter CSS.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.007 HTML Attributes.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.001 HTML 5 Document Structure.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.004 HTML Element Tags.md",
