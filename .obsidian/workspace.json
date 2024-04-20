@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4c160c4be3d42d14",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.008 Enter CSS.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.008 Enter CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.008 Enter CSS.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -145,10 +150,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "157140dbfd28667f",
+  "active": "4c160c4be3d42d14",
   "lastOpenFiles": [
-    "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.014 Text and Background Colours.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.008 Enter CSS.md",
+    "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.014 Text and Background Colours.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.013 Colours in CSS.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.012 CSS at-rules.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.005 Character Sets.md",
