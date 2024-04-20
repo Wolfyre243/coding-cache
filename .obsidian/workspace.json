@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.008 Enter CSS.md",
+                "file": "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.010 Browser Developer Tools.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.008 Enter CSS.md",
+                "file": "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.010 Browser Developer Tools.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.008 Enter CSS.md",
+                "file": "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.010 Browser Developer Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.008 Enter CSS.md"
+                "file": "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.010 Browser Developer Tools.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   "active": "157140dbfd28667f",
   "lastOpenFiles": [
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.009 Browser Extensions.md",
+    "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.010 Browser Developer Tools.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.008 Enter CSS.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.007 HTML Attributes.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.001 HTML 5 Document Structure.md",
@@ -176,7 +177,6 @@
     "Programming Survival Guide/00 - 09 Adminstration",
     "Math part 2/1 Matrices",
     "Math part 2",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.010 Bits and Bytes.md",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.009 Memory Bandwidth.md"
+    "Computing Notes/20-29 Definitions/21 Terminology/21.010 Bits and Bytes.md"
   ]
 }
