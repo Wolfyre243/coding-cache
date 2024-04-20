@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Survival Guide/00 - 09 Adminstration/01 All the Best Practices.md",
+                "file": "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.013 Colours in CSS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Survival Guide/00 - 09 Adminstration/01 All the Best Practices.md",
+                "file": "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.013 Colours in CSS.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Survival Guide/00 - 09 Adminstration/01 All the Best Practices.md",
+                "file": "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.013 Colours in CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Survival Guide/00 - 09 Adminstration/01 All the Best Practices.md"
+                "file": "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.013 Colours in CSS.md"
               }
             }
           }
@@ -147,16 +147,20 @@
   },
   "active": "157140dbfd28667f",
   "lastOpenFiles": [
-    "Programming Survival Guide/00 - 09 Adminstration/02 References.md",
-    "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.012 CSS at-rules.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.008 Enter CSS.md",
-    "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.010 Browser Developer Tools.md",
-    "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.009 Browser Extensions.md",
-    "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.007 HTML Attributes.md",
-    "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.001 HTML 5 Document Structure.md",
+    "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.013 Colours in CSS.md",
+    "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.012 CSS at-rules.md",
+    "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.005 Character Sets.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.004 HTML Element Tags.md",
-    "Programming Survival Guide/10-19 Concepts/11 Definitions/11X Languages/11X.001 HTML.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.002 Content Management Systems.md",
+    "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.001 HTML 5 Document Structure.md",
+    "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.007 HTML Attributes.md",
+    "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.010 Browser Developer Tools.md",
+    "Programming Survival Guide/00 - 09 Adminstration/00 Homepage.md",
+    "Programming Survival Guide/00 - 09 Adminstration/02 References.md",
+    "Programming Survival Guide/00 - 09 Adminstration/01 All the Best Practices.md",
+    "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.009 Browser Extensions.md",
+    "Programming Survival Guide/10-19 Concepts/11 Definitions/11X Languages/11X.001 HTML.md",
     "Programming Survival Guide/10-19 Concepts/14 JavaScript/14.002 User Input.md",
     "Programming Survival Guide/10-19 Concepts/14 JavaScript/14.001 Initialising Variables.md",
     "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.004 Operators.md",
@@ -168,13 +172,9 @@
     "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.001 Variables in Data Structure in Java.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.007X Cache Memory Diagram.canvas",
     "Computing Notes/20-29 Definitions/21 Terminology/21.008 ROM.md",
-    "Programming Survival Guide/00 - 09 Adminstration/01 All the Best Practices.md",
-    "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.005 Character Sets.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.005 BIOS & CMOS Fundamentals.md",
     "conflict-files-obsidian-git.md",
-    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.001 Basic Function of Computers.md",
     "Programming Survival Guide/10-19 Concepts/14 JavaScript",
-    "Programming Survival Guide/10-19 Concepts/11 Definitions/11.005 Identifiers.md",
     "Programming Survival Guide/00 - 09 Adminstration",
     "Math part 2/1 Matrices",
     "Math part 2"
