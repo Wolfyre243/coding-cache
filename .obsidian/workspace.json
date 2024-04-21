@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "08072859ce313de5",
+            "id": "2ce3203982f762c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.008 Functional Units.md",
+                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.001 Virtual Memory.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "SRAM",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -172,9 +172,15 @@
   },
   "active": "0b6704f7afa1fbe6",
   "lastOpenFiles": [
-    "Computing Notes/20-29 Definitions/21 Terminology/21.001 Virtual Memory.md",
-    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.008 Functional Units.md",
+    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.010 Bits and Bytes.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.009 Memory Bandwidth.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.007X Cache Memory Diagram.canvas",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.008 ROM.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.007 Cache Memory.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.006 Flash Memory.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.001 Virtual Memory.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.007 Types of Computers.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.006 Fundamentals of Network Communication.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.005 BIOS & CMOS Fundamentals.md",
@@ -193,12 +199,6 @@
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.013 Colours in CSS.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.012 CSS at-rules.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.010 Browser Developer Tools.md",
-    "Programming Survival Guide/00 - 09 Adminstration/00 Homepage.md",
-    "Programming Survival Guide/00 - 09 Adminstration/02 References.md",
-    "Programming Survival Guide/00 - 09 Adminstration/01 All the Best Practices.md",
-    "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.009 Browser Extensions.md",
-    "Programming Survival Guide/10-19 Concepts/11 Definitions/11X Languages/11X.001 HTML.md",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.007X Cache Memory Diagram.canvas",
     "Programming Survival Guide/10-19 Concepts/14 JavaScript",
     "Programming Survival Guide/00 - 09 Adminstration",
     "Math part 2/1 Matrices",
