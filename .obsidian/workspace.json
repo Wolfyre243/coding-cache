@@ -37,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.010 Instructions and Programs.md",
+                "file": "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.008 Enter CSS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,10 +171,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a7b0259d044a0afe",
+  "active": "c76b41701e3d5f2e",
   "lastOpenFiles": [
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.009 Functional Units.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.010 Instructions and Programs.md",
+    "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.008 Enter CSS.md",
+    "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.012 CSS at-rules.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.007 Types of Computers.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.008 Operation of a Computer (summarised).md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.010 Instruction Cycle.md",
@@ -185,10 +187,8 @@
     "Computing Notes/20-29 Definitions/20 Languages & Protocols/TCPIP.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.006 Fundamentals of Network Communication.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.007 HTML Attributes.md",
-    "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.012 CSS at-rules.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.010 Browser Developer Tools.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.009 Browser Extensions.md",
-    "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.008 Enter CSS.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.006 Folder Paths.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.007 Attributes.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.001 Virtual Memory.md",
