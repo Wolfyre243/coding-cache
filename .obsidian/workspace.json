@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "lamp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -148,6 +148,8 @@
   },
   "active": "9c76ac1d9079ab9a",
   "lastOpenFiles": [
+    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.007 Types of Computers.md",
+    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.006 Fundamentals of Network Communication.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.007 HTML Attributes.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.012 CSS at-rules.md",
@@ -172,8 +174,6 @@
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.002 Content Management Systems.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.001 HTML 5 Document Structure.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.005 Character Sets.md",
-    "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.004 Math Functions.md",
-    "Programming Survival Guide/10-19 Concepts/11 Definitions/11.003 Truthy and Falsy.md",
     "Programming Survival Guide/00 - 09 Adminstration/00",
     "Programming Survival Guide/00 - 09 Adminstration",
     "Programming Survival Guide/10-19 Concepts/14 JavaScript",
