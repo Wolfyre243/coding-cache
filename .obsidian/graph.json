@@ -18,45 +18,34 @@
       "query": "path:\"Computing Notes/20-29 Definitions/21 Terminology\"  ",
       "color": {
         "a": 1,
-        "rgb": 11233023
+        "rgb": 14876248
       }
     },
     {
       "query": "path:\"Programming Survival Guide/10-19 Concepts/14 JavaScript\"  ",
       "color": {
         "a": 1,
-        "rgb": 16514816
+        "rgb": 6082262
       }
     },
     {
-      "query": "path:\"Programming Survival Guide\"  tag:#HTML  ",
+      "query": "path:\"Programming Survival Guide/10-19 Concepts/13 HTML and the Web\"  ",
       "color": {
         "a": 1,
         "rgb": 16749824
-      }
-    },
-    {
-      "query": "tag:#CSS  ",
-      "color": {
-        "a": 1,
-        "rgb": 6084269
       }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -0.3,
+  "textFadeMultiplier": 0.1,
   "nodeSizeMultiplier": 0.865625,
-  "lineSizeMultiplier": 0.380729166666667,
+  "lineSizeMultiplier": 0.584895833333333,
   "collapse-forces": false,
   "centerStrength": 0.567708333333333,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-<<<<<<< HEAD
-  "scale": 0.6787110745338548,
-=======
-  "scale": 0.6017545829065528,
->>>>>>> origin/main
+  "scale": 0.9019499048415063,
   "close": true
 }

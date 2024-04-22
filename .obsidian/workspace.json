@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.003 Data Types.md",
+                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,11 +32,15 @@
             }
           },
           {
-            "id": "f9e2d64b8e664ffd",
+            "id": "9c76ac1d9079ab9a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.007 Attributes.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -106,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.007 Attributes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.007 Attributes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.007 Attributes.md"
+              }
             }
           }
         ]
@@ -163,14 +171,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f9e2d64b8e664ffd",
+  "active": "9c76ac1d9079ab9a",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Programming Survival Guide/10-19 Concepts/14 JavaScript/14.002 User Input.md",
+    "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.007 Attributes.md",
+    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.001 Virtual Memory.md",
+    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.008 Functional Units.md",
+    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.004 IO Polling & Interrupt.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.014 Text and Background Colours.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.013 Colours in CSS.md",
+    "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.003 Data Types.md",
+    "conflict-files-obsidian-git.md",
+    "Programming Survival Guide/10-19 Concepts/14 JavaScript/14.002 User Input.md",
     "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.004 Operators.md",
-    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.003 Buses.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.004 HTML Element Tags.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.007 Attributes.md",
@@ -181,16 +194,11 @@
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.001 HTML 5 Document Structure.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.005 Character Sets.md",
     "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.004 Math Functions.md",
-    "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.003 Data Types.md",
     "Programming Survival Guide/10-19 Concepts/11 Definitions/11.003 Truthy and Falsy.md",
     "Programming Survival Guide/10-19 Concepts/11 Definitions/11.002 Stacks.md",
     "Programming Survival Guide/10-19 Concepts/11 Definitions/11.001 Heaps.md",
     "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.001 Variables in Data Structure in Java.md",
     "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.002 Recursion.md",
-    "Programming Survival Guide/10-19 Concepts/14 JavaScript/14.001 Initialising Variables.md",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.010 Bits and Bytes.md",
-    "Programming Survival Guide/00 - 09 Adminstration/00 Homepage.md",
-    "Programming Survival Guide/10-19 Concepts/11 Definitions/11.005 Identifiers.md",
     "Programming Survival Guide/00 - 09 Adminstration/00",
     "Programming Survival Guide/00 - 09 Adminstration",
     "Programming Survival Guide/10-19 Concepts/14 JavaScript",
