@@ -25,14 +25,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.004 HTML Element Tags.md",
+                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "f9e2d64b8e664ffd",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.004 HTML Element Tags.md",
+                "file": "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.003 Data Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.004 HTML Element Tags.md",
+                "file": "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.003 Data Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.004 HTML Element Tags.md"
+                "file": "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.003 Data Types.md"
               }
             }
           }
@@ -159,12 +167,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "157140dbfd28667f",
+  "active": "f9e2d64b8e664ffd",
   "lastOpenFiles": [
+    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
+    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.003 Buses.md",
+    "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.004 HTML Element Tags.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.007 Attributes.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.006 Folder Paths.md",
     "Programming Survival Guide/00 - 09 Adminstration/01 All the Best Practices.md",
-    "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.004 HTML Element Tags.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.003 Frameworks.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.002 Content Management Systems.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.001 HTML 5 Document Structure.md",
@@ -188,11 +198,9 @@
     "Programming Survival Guide/10-19 Concepts/14 Javascript.md",
     "Untitled.canvas",
     "Math part 2/1 Matrices/1.002 Matrix Operations.md",
-    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
     "Math part 2/1 Matrices",
     "Math part 2",
     "Computing Notes/20-29 Definitions/21 Terminology/21.009 Memory Bandwidth.md",
-    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.008 Functional Units.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.007X Cache Memory Diagram.canvas"
   ]
 }
