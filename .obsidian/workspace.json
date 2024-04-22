@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.010 Bits and Bytes.md",
+                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.012 Instructions and Programs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.010 Bits and Bytes.md",
+                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.012 Instructions and Programs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.010 Bits and Bytes.md",
+                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.012 Instructions and Programs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.010 Bits and Bytes.md"
+                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.012 Instructions and Programs.md"
               }
             }
           }
@@ -150,10 +150,12 @@
   "lastOpenFiles": [
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.008 Functional Units.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.009 Operation of a Computer (summarised).md",
+    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.012 Instructions and Programs.md",
+    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.001 Basic Function of Computers.md",
+    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.010 Instruction Cycle.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.010 Bits and Bytes.md",
     "Untitled.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
-    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.001 Basic Function of Computers.md",
     "Computing Notes/20-29 Definitions/20 Languages & Protocols/TCPIP.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.006 Fundamentals of Network Communication.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.007 Types of Computers.md",
@@ -172,8 +174,6 @@
     "conflict-files-obsidian-git.md",
     "Programming Survival Guide/10-19 Concepts/14 JavaScript/14.002 User Input.md",
     "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.004 Operators.md",
-    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.003 Buses.md",
-    "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.004 HTML Element Tags.md",
     "Programming Survival Guide/00 - 09 Adminstration/00",
     "Programming Survival Guide/00 - 09 Adminstration",
     "Programming Survival Guide/10-19 Concepts/14 JavaScript",
