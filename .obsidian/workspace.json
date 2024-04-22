@@ -106,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.003 Data Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.003 Data Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.003 Data Types.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -169,6 +165,11 @@
   },
   "active": "f9e2d64b8e664ffd",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Programming Survival Guide/10-19 Concepts/14 JavaScript/14.002 User Input.md",
+    "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.014 Text and Background Colours.md",
+    "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.013 Colours in CSS.md",
+    "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.004 Operators.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.003 Buses.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.004 HTML Element Tags.md",
@@ -192,15 +193,10 @@
     "Programming Survival Guide/10-19 Concepts/11 Definitions/11.005 Identifiers.md",
     "Programming Survival Guide/00 - 09 Adminstration/00",
     "Programming Survival Guide/00 - 09 Adminstration",
-    "Programming Survival Guide/10-19 Concepts/11 Definitions/11.004 Networks.md",
-    "Math part 2/1 Matrices/1.001 Types of Matrices.md",
     "Programming Survival Guide/10-19 Concepts/14 JavaScript",
-    "Programming Survival Guide/10-19 Concepts/14 Javascript.md",
     "Untitled.canvas",
-    "Math part 2/1 Matrices/1.002 Matrix Operations.md",
     "Math part 2/1 Matrices",
     "Math part 2",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.009 Memory Bandwidth.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.007X Cache Memory Diagram.canvas"
   ]
 }
