@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.006 Fundamentals of Network Communication.md",
+                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.006 Fundamentals of Network Communication.md",
+                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.006 Fundamentals of Network Communication.md",
+                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.006 Fundamentals of Network Communication.md"
+                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md"
               }
             }
           }
@@ -160,13 +160,18 @@
   },
   "active": "2ce3203982f762c3",
   "lastOpenFiles": [
+    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.004 IO Polling & Interrupt.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
-    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.003 Buses.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.006 Flash Memory.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.007 Cache Memory.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.005 Operating Systems.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.004 Data Paths.md",
+    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.005 BIOS & CMOS Fundamentals.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.006 Fundamentals of Network Communication.md",
+    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.003 Buses.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.001 Virtual Memory.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.002 Cores.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.008 ROM.md",
-    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.005 BIOS & CMOS Fundamentals.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.012 Program Counter Register.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.010 Instructions and Programs.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.009 Functional Units.md",
@@ -176,17 +181,12 @@
     "21.012 Program Counter Register.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.008 Operation of a Computer (summarised).md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.001 Basic Function of Computers.md",
-    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.004 IO Polling & Interrupt.md",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.007 Cache Memory.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.008 Functional Units.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.010 Bits and Bytes.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.009 Memory Bandwidth.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.007X Cache Memory Diagram.canvas",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.006 Flash Memory.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.007 Types of Computers.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.004 HTML Element Tags.md",
-    "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.007 HTML Attributes.md",
-    "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.005 Character Sets.md",
     "Programming Survival Guide/10-19 Concepts/14 JavaScript",
     "Programming Survival Guide/00 - 09 Adminstration",
     "Math part 2/1 Matrices",
