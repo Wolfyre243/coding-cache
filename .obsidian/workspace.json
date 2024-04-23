@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.012 Multi-Threading.md",
+                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.014 General-Purpose Register.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "multicore",
+                "query": "address reg",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
+                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.014 General-Purpose Register.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
+                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.014 General-Purpose Register.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md"
+                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.014 General-Purpose Register.md"
               }
             }
           }
@@ -160,22 +159,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f18ace820d821ce7",
+  "active": "03f13c2a2653ec31",
   "lastOpenFiles": [
-    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.007 Types of Computers.md",
-    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.012 Multi-Threading.md",
-    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.005 BIOS & CMOS Fundamentals.md",
-    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.003 Buses.md",
-    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.004 IO Polling & Interrupt.md",
-    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.006 Fundamentals of Network Communication.md",
-    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
-    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.001 Basic Function of Computers.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.016 Address Register.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.014 General-Purpose Register.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.010 Instructions and Programs.md",
+    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.007 Types of Computers.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.015 Accumulator.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.013 Instruction Register.md",
+    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.003 Buses.md",
+    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
+    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.012 Multi-Threading.md",
+    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.005 BIOS & CMOS Fundamentals.md",
+    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.004 IO Polling & Interrupt.md",
+    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.006 Fundamentals of Network Communication.md",
+    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.001 Basic Function of Computers.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.009 Functional Units.md",
     "conflict-files-obsidian-git.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.012 Program Counter Register.md",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.013 Instruction Register.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.016 Typography in CSS.md",
     "21.012 Program Counter Register.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.015 CSS Selector Patterns.md",
@@ -186,8 +187,6 @@
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.001 HTML 5 Document Structure.md",
     "Programming Survival Guide/10-19 Concepts/11 Definitions/11.005 Identifiers.md",
     "Programming Survival Guide/10-19 Concepts/11 Definitions/11.001 Heaps.md",
-    "Programming Survival Guide/10-19 Concepts/11 Definitions/11.003 Truthy and Falsy.md",
-    "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.014 Text and Background Colours.md",
     "Programming Survival Guide/00 - 09 Adminstration/00",
     "Programming Survival Guide/00 - 09 Adminstration",
     "Programming Survival Guide/10-19 Concepts/14 JavaScript",
