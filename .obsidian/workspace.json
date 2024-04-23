@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.012 Program Counter Register.md",
+                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.013 Instruction Register.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.012 Program Counter Register.md",
+                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.013 Instruction Register.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.012 Program Counter Register.md",
+                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.013 Instruction Register.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.012 Program Counter Register.md"
+                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.013 Instruction Register.md"
               }
             }
           }
@@ -161,6 +161,7 @@
   },
   "active": "511c4ee7081f667e",
   "lastOpenFiles": [
+    "Computing Notes/20-29 Definitions/21 Terminology/21.012 Program Counter Register.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.016 Typography in CSS.md",
     "21.012 Program Counter Register.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.015 CSS Selector Patterns.md",
@@ -176,7 +177,6 @@
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.010 Instructions and Programs.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.009 Functional Units.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.008 Operation of a Computer (summarised).md",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.012 Program Counter Register.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.013 Instruction Register.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.014 General-Purpose Register.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.011 Performance.md",
