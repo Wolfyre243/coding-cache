@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Survival Guide/10-19 Concepts/11 Definitions/11.007 Scalable Vector Graphics (SVG).md",
+                "file": "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.016 Typography in CSS.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,10 +61,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fetch",
+                "query": "font definition",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Survival Guide/10-19 Concepts/11 Definitions/11.007 Scalable Vector Graphics (SVG).md",
+                "file": "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.016 Typography in CSS.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Survival Guide/10-19 Concepts/11 Definitions/11.007 Scalable Vector Graphics (SVG).md",
+                "file": "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.016 Typography in CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Survival Guide/10-19 Concepts/11 Definitions/11.007 Scalable Vector Graphics (SVG).md"
+                "file": "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.016 Typography in CSS.md"
               }
             }
           }
@@ -160,13 +161,16 @@
   },
   "active": "2ce3203982f762c3",
   "lastOpenFiles": [
+    "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.012 CSS at-rules.md",
+    "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.016 Typography in CSS.md",
+    "Programming Survival Guide/10-19 Concepts/11 Definitions/11.006 Inheritance.md",
+    "Programming Survival Guide/10-19 Concepts/11 Definitions/11.007 Scalable Vector Graphics (SVG).md",
+    "Programming Survival Guide/10-19 Concepts/11 Definitions/11.008 Font Stack.md",
+    "Programming Survival Guide/10-19 Concepts/11 Definitions/11.009 Font Definition File.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.017 Web Fonts.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.015 CSS Selector Patterns.md",
-    "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.012 CSS at-rules.md",
-    "Programming Survival Guide/10-19 Concepts/11 Definitions/11.008 Font Stack.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.015 Accumulator.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
-    "Programming Survival Guide/10-19 Concepts/11 Definitions/11.007 Scalable Vector Graphics (SVG).md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.012 Multi-Threading.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.005 BIOS & CMOS Fundamentals.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.003 Buses.md",
@@ -183,9 +187,6 @@
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.010 Instructions and Programs.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.009 Functional Units.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.001 HTML 5 Document Structure.md",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.014 General-Purpose Register.md",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.013 Instruction Register.md",
-    "21.012 Program Counter Register.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.007X Cache Memory Diagram.canvas",
     "Programming Survival Guide/10-19 Concepts/14 JavaScript",
     "Programming Survival Guide/00 - 09 Adminstration",
