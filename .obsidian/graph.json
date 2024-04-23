@@ -22,21 +22,21 @@
       }
     },
     {
-      "query": "path:\"Programming Survival Guide/10-19 Concepts/14 JavaScript\"  ",
+      "query": "tag:#CSS  path:\"Programming Survival Guide/10-19 Concepts/13 HTML and the Web\"  ",
       "color": {
         "a": 1,
-        "rgb": 6082262
+        "rgb": 6084280
       }
     },
     {
-      "query": "path:\"Programming Survival Guide/10-19 Concepts/13 HTML and the Web\"  ",
+      "query": "tag:#HTML path:\"Programming Survival Guide/10-19 Concepts/13 HTML and the Web\"  ",
       "color": {
         "a": 1,
-        "rgb": 16749824
+        "rgb": 16741893
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0.1,
   "nodeSizeMultiplier": 0.865625,
@@ -46,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.0049398917288006,
+  "scale": 0.7047908131771283,
   "close": true
 }
