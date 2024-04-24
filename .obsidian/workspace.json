@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.018 CSS Properties.md",
+                "file": "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.005 Programming Errors.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.018 CSS Properties.md",
+                "file": "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.005 Programming Errors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.018 CSS Properties.md",
+                "file": "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.005 Programming Errors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.018 CSS Properties.md"
+                "file": "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.005 Programming Errors.md"
               }
             }
           }
@@ -148,9 +148,14 @@
   },
   "active": "1653c660c13859fc",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.003 Data Types.md",
+    "Programming Survival Guide/10-19 Concepts/14 JavaScript/14.001 Initialising Variables.md",
+    "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.005 Programming Errors.md",
+    "Programming Survival Guide/10-19 Concepts/14 JavaScript/14.002 User Input.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.018 CSS Properties.md",
+    "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.017 Web Fonts.md",
     "Programming Survival Guide/10-19 Concepts/11 Definitions/11.012 Kerning, Tracking and Leading.md",
+    "conflict-files-obsidian-git.md",
     "Programming Survival Guide/10-19 Concepts/11 Definitions/11.011 Relative Units.md",
     "Programming Survival Guide/10-19 Concepts/11 Definitions/11.010 Absolute Units.md",
     "Programming Survival Guide/10-19 Concepts/11 Definitions/11.009 Font Definition File.md",
@@ -158,7 +163,6 @@
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.012 CSS at-rules.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.016 Typography in CSS.md",
     "Programming Survival Guide/10-19 Concepts/11 Definitions/11.007 Scalable Vector Graphics (SVG).md",
-    "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.017 Web Fonts.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.015 CSS Selector Patterns.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.007 HTML Attributes.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.014 Text and Background Colours.md",
@@ -170,10 +174,6 @@
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.010 Browser Developer Tools.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.009 Browser Extensions.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.001 HTML 5 Document Structure.md",
-    "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.006 Folder Paths.md",
-    "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.008 Enter CSS.md",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.014 General-Purpose Register.md",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.016 Address Register.md",
     "Programming Survival Guide/00 - 09 Adminstration/00",
     "Programming Survival Guide/00 - 09 Adminstration",
     "Programming Survival Guide/10-19 Concepts/14 JavaScript",
