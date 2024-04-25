@@ -18,7 +18,7 @@
       "query": "path:\"Computing Notes/20-29 Definitions/21 Terminology\"  ",
       "color": {
         "a": 1,
-        "rgb": 14876248
+        "rgb": 15728542
       }
     },
     {
@@ -34,6 +34,13 @@
         "a": 1,
         "rgb": 16741893
       }
+    },
+    {
+      "query": "tag:#JavaScript",
+      "color": {
+        "a": 1,
+        "rgb": 16768256
+      }
     }
   ],
   "collapse-display": true,
@@ -46,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7047908131771283,
+  "scale": 0.7047908131771319,
   "close": true
 }
