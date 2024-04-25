@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.016 Typography in CSS.md",
+                "file": "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.001 HTML 5 Document Structure.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.016 Typography in CSS.md",
+                "file": "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.001 HTML 5 Document Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.016 Typography in CSS.md",
+                "file": "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.001 HTML 5 Document Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.016 Typography in CSS.md"
+                "file": "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.001 HTML 5 Document Structure.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "1653c660c13859fc",
   "lastOpenFiles": [
-    "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.003 Data Types.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.016 Typography in CSS.md",
+    "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.003 Data Types.md",
     "Programming Survival Guide/10-19 Concepts/11 Definitions/11.008 Font Stack.md",
     "Programming Survival Guide/10-19 Concepts/11 Definitions/11.010 Absolute Units.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
