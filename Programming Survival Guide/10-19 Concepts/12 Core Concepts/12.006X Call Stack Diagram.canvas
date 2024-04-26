@@ -1,6 +1,12 @@
 {
 	"nodes":[
-		{"id":"d56a6bb1454ce03c","x":-125,"y":-200,"width":250,"height":230,"type":"text","text":"Program:\nlet i = 5;\nlet j = 2;\nlet k = bigger(i, j);\n\nfunction (bigger)"}
+		{"id":"d56a6bb1454ce03c","type":"text","text":"Program:\n```js\nlet i = 5;\nlet j = 2;\nlet k = bigger(i, j);\n\nfunction bigger (num1, num2) {\n\tlet result;\n\tif (num1 > num2) {\n\t\tresult = num1;\n\t} else if (num1 < num2) {\n\t\tresult = num2;\n\t}\n\treturn result;\n}\n```\n","x":-560,"y":-380,"width":465,"height":400},
+		{"id":"f0e957da391225be","x":-20,"y":-80,"width":470,"height":262,"type":"text","text":"### Space Required for main program\n\nk: 5\nj: 2\ni: 5"},
+		{"id":"ea5ab2b6b20ecb15","x":30,"y":-380,"width":370,"height":198,"type":"text","text":"### Space required for `bigger` method\nresult: 5\nnum2: 2\nnum1: 5"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"ff716ff364d5391c","fromNode":"d56a6bb1454ce03c","fromSide":"right","toNode":"f0e957da391225be","toSide":"left"},
+		{"id":"eb9f38860371ef3a","fromNode":"ea5ab2b6b20ecb15","fromSide":"left","toNode":"d56a6bb1454ce03c","toSide":"right"},
+		{"id":"ffaf5e5dcb2da7a0","fromNode":"ea5ab2b6b20ecb15","fromSide":"right","toNode":"f0e957da391225be","toSide":"right","label":"result is passed into k"}
+	]
 }
