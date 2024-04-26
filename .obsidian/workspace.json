@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/11 Digital Representation/11.002 Representing Sound.md",
+                "file": "Computing Notes/10-19 Concepts/11 Digital Representation/11.004 Representing Number.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/11 Digital Representation/11.002 Representing Sound.md",
+                "file": "Computing Notes/10-19 Concepts/11 Digital Representation/11.004 Representing Number.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/11 Digital Representation/11.002 Representing Sound.md",
+                "file": "Computing Notes/10-19 Concepts/11 Digital Representation/11.004 Representing Number.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/11 Digital Representation/11.002 Representing Sound.md"
+                "file": "Computing Notes/10-19 Concepts/11 Digital Representation/11.004 Representing Number.md"
               }
             }
           }
@@ -164,8 +164,10 @@
   },
   "active": "7cdfb2fbdd653391",
   "lastOpenFiles": [
-    "Computing Notes/10-19 Concepts/11 Digital Representation/11.001 Representing Characters and Text.md",
     "Computing Notes/10-19 Concepts/11 Digital Representation/11.002 Representing Sound.md",
+    "Computing Notes/10-19 Concepts/11 Digital Representation/11.004 Representing Number.md",
+    "Computing Notes/10-19 Concepts/11 Digital Representation/11.003 Encoding Images.md",
+    "Computing Notes/10-19 Concepts/11 Digital Representation/11.001 Representing Characters and Text.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.016 Unicode.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.010 Bits and Bytes.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.004 HTML Element Tags.md",
@@ -189,8 +191,6 @@
     "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.005 Programming Errors.md",
     "Programming Survival Guide/10-19 Concepts/14 JavaScript/14.001 Initialising Variables.md",
     "Programming Survival Guide/10-19 Concepts/14 JavaScript/14.002 User Input.md",
-    "Programming Survival Guide/10-19 Concepts/11 Definitions/11.012 Kerning, Tracking and Leading.md",
-    "conflict-files-obsidian-git.md",
     "Programming Survival Guide/00 - 09 Adminstration/00",
     "Programming Survival Guide/00 - 09 Adminstration",
     "Programming Survival Guide/10-19 Concepts/14 JavaScript",
