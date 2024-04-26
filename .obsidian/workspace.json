@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.004 HTML Element Tags.md",
+                "file": "Computing Notes/10-19 Concepts/11 Digital Representation/11.002 Representing Sound.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "font-fam",
+                "query": "asc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.004 HTML Element Tags.md",
+                "file": "Computing Notes/10-19 Concepts/11 Digital Representation/11.002 Representing Sound.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.004 HTML Element Tags.md",
+                "file": "Computing Notes/10-19 Concepts/11 Digital Representation/11.002 Representing Sound.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.004 HTML Element Tags.md"
+                "file": "Computing Notes/10-19 Concepts/11 Digital Representation/11.002 Representing Sound.md"
               }
             }
           }
@@ -164,11 +164,15 @@
   },
   "active": "7cdfb2fbdd653391",
   "lastOpenFiles": [
+    "Computing Notes/10-19 Concepts/11 Digital Representation/11.001 Representing Characters and Text.md",
+    "Computing Notes/10-19 Concepts/11 Digital Representation/11.002 Representing Sound.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.016 Unicode.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.010 Bits and Bytes.md",
+    "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.004 HTML Element Tags.md",
     "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.006 Call Stacks.md",
     "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.006X Call Stack Diagram.canvas",
     "Programming Survival Guide/10-19 Concepts/14 JavaScript/14.005 Functions.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.018 CSS Properties.md",
-    "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.004 HTML Element Tags.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.016 Typography in CSS.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.017 Web Fonts.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.012 CSS at-rules.md",
@@ -187,9 +191,6 @@
     "Programming Survival Guide/10-19 Concepts/14 JavaScript/14.002 User Input.md",
     "Programming Survival Guide/10-19 Concepts/11 Definitions/11.012 Kerning, Tracking and Leading.md",
     "conflict-files-obsidian-git.md",
-    "Programming Survival Guide/10-19 Concepts/11 Definitions/11.011 Relative Units.md",
-    "Programming Survival Guide/10-19 Concepts/11 Definitions/11.009 Font Definition File.md",
-    "Programming Survival Guide/10-19 Concepts/11 Definitions/11.007 Scalable Vector Graphics (SVG).md",
     "Programming Survival Guide/00 - 09 Adminstration/00",
     "Programming Survival Guide/00 - 09 Adminstration",
     "Programming Survival Guide/10-19 Concepts/14 JavaScript",
