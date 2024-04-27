@@ -11,21 +11,6 @@
             "id": "1653c660c13859fc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.006X Call Stack Diagram.canvas",
-                "viewState": {
-                  "x": 182.50689052881077,
-                  "y": -84.47588810696404,
-                  "zoom": -0.3333333333333334
-                }
-              }
-            }
-          },
-          {
-            "id": "7cdfb2fbdd653391",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "Computing Notes/10-19 Concepts/11 Digital Representation/11.004 Representing Number.md",
@@ -33,9 +18,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b5eee4507727678c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.010 Bits and Bytes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -64,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "asc",
+                "query": "decim",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -162,17 +158,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7cdfb2fbdd653391",
+  "active": "1653c660c13859fc",
   "lastOpenFiles": [
-    "Computing Notes/10-19 Concepts/11 Digital Representation/11.002 Representing Sound.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.010 Bits and Bytes.md",
     "Computing Notes/10-19 Concepts/11 Digital Representation/11.004 Representing Number.md",
+    "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.006X Call Stack Diagram.canvas",
+    "Computing Notes/10-19 Concepts/11 Digital Representation/11.002 Representing Sound.md",
     "Computing Notes/10-19 Concepts/11 Digital Representation/11.003 Encoding Images.md",
     "Computing Notes/10-19 Concepts/11 Digital Representation/11.001 Representing Characters and Text.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.016 Unicode.md",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.010 Bits and Bytes.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.004 HTML Element Tags.md",
     "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.006 Call Stacks.md",
-    "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.006X Call Stack Diagram.canvas",
     "Programming Survival Guide/10-19 Concepts/14 JavaScript/14.005 Functions.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.018 CSS Properties.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.016 Typography in CSS.md",
@@ -190,7 +186,6 @@
     "Programming Survival Guide/10-19 Concepts/14 JavaScript/14.003 isNaN Function.md",
     "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.005 Programming Errors.md",
     "Programming Survival Guide/10-19 Concepts/14 JavaScript/14.001 Initialising Variables.md",
-    "Programming Survival Guide/10-19 Concepts/14 JavaScript/14.002 User Input.md",
     "Programming Survival Guide/00 - 09 Adminstration/00",
     "Programming Survival Guide/00 - 09 Adminstration",
     "Programming Survival Guide/10-19 Concepts/14 JavaScript",
