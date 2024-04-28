@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/11 Digital Representation/11.004 Representing Number.md",
+                "file": "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.018 CSS Properties.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/11 Digital Representation/11.004 Representing Number.md",
+                "file": "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.018 CSS Properties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/11 Digital Representation/11.004 Representing Number.md",
+                "file": "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.018 CSS Properties.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/11 Digital Representation/11.004 Representing Number.md"
+                "file": "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.018 CSS Properties.md"
               }
             }
           }
@@ -160,8 +160,11 @@
   },
   "active": "1653c660c13859fc",
   "lastOpenFiles": [
-    "Computing Notes/20-29 Definitions/21 Terminology/21.010 Bits and Bytes.md",
+    "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.016 Typography in CSS.md",
+    "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.015 CSS Selector Patterns.md",
+    "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.008 Enter CSS.md",
     "Computing Notes/10-19 Concepts/11 Digital Representation/11.004 Representing Number.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.010 Bits and Bytes.md",
     "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.006X Call Stack Diagram.canvas",
     "Computing Notes/10-19 Concepts/11 Digital Representation/11.002 Representing Sound.md",
     "Computing Notes/10-19 Concepts/11 Digital Representation/11.003 Encoding Images.md",
@@ -171,7 +174,6 @@
     "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.006 Call Stacks.md",
     "Programming Survival Guide/10-19 Concepts/14 JavaScript/14.005 Functions.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.018 CSS Properties.md",
-    "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.016 Typography in CSS.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.017 Web Fonts.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.012 CSS at-rules.md",
     "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.003 Data Types.md",
@@ -185,7 +187,6 @@
     "Programming Survival Guide/10-19 Concepts/14 JavaScript/14.004 Template Literals.md",
     "Programming Survival Guide/10-19 Concepts/14 JavaScript/14.003 isNaN Function.md",
     "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.005 Programming Errors.md",
-    "Programming Survival Guide/10-19 Concepts/14 JavaScript/14.001 Initialising Variables.md",
     "Programming Survival Guide/00 - 09 Adminstration/00",
     "Programming Survival Guide/00 - 09 Adminstration",
     "Programming Survival Guide/10-19 Concepts/14 JavaScript",
