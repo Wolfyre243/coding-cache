@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.018 CSS Properties.md",
+                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.010 Instructions and Programs.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.018 CSS Properties.md",
+                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.010 Instructions and Programs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.018 CSS Properties.md",
+                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.010 Instructions and Programs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.018 CSS Properties.md"
+                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.010 Instructions and Programs.md"
               }
             }
           }
@@ -160,6 +160,7 @@
   },
   "active": "1653c660c13859fc",
   "lastOpenFiles": [
+    "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.018 CSS Properties.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.016 Typography in CSS.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.015 CSS Selector Patterns.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.008 Enter CSS.md",
@@ -173,7 +174,6 @@
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.004 HTML Element Tags.md",
     "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.006 Call Stacks.md",
     "Programming Survival Guide/10-19 Concepts/14 JavaScript/14.005 Functions.md",
-    "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.018 CSS Properties.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.017 Web Fonts.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.012 CSS at-rules.md",
     "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.003 Data Types.md",
