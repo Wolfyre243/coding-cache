@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "699b463dff8d33ab",
+        "id": "d6755539db066811",
         "type": "tabs",
         "children": [
           {
-            "id": "1653c660c13859fc",
+            "id": "2ce3203982f762c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.009 Functional Units.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b5eee4507727678c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.010 Bits and Bytes.md",
+                "file": "Programming Survival Guide/10-19 Concepts/14 JavaScript/14.004 Template Literals.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,10 +48,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "decim",
+                "query": "font definition",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -97,9 +85,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.009 Functional Units.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "Programming Survival Guide/10-19 Concepts/14 JavaScript/14.004 Template Literals.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.009 Functional Units.md",
+                "file": "Programming Survival Guide/10-19 Concepts/14 JavaScript/14.004 Template Literals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.009 Functional Units.md"
+                "file": "Programming Survival Guide/10-19 Concepts/14 JavaScript/14.004 Template Literals.md"
               }
             }
           }
@@ -145,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,41 +145,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1653c660c13859fc",
+  "active": "2ce3203982f762c3",
   "lastOpenFiles": [
-    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.003 Buses.md",
-    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.009 Functional Units.md",
-    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.010 Instructions and Programs.md",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.014 General-Purpose Register.md",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.013 Instruction Register.md",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.012 Program Counter Register.md",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.010 Bits and Bytes.md",
-    "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.018 CSS Properties.md",
-    "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.016 Typography in CSS.md",
-    "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.015 CSS Selector Patterns.md",
-    "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.008 Enter CSS.md",
     "Computing Notes/10-19 Concepts/11 Digital Representation/11.004 Representing Number.md",
-    "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.006X Call Stack Diagram.canvas",
     "Computing Notes/10-19 Concepts/11 Digital Representation/11.002 Representing Sound.md",
     "Computing Notes/10-19 Concepts/11 Digital Representation/11.003 Encoding Images.md",
     "Computing Notes/10-19 Concepts/11 Digital Representation/11.001 Representing Characters and Text.md",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.016 Unicode.md",
-    "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.004 HTML Element Tags.md",
-    "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.006 Call Stacks.md",
-    "Programming Survival Guide/10-19 Concepts/14 JavaScript/14.005 Functions.md",
-    "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.017 Web Fonts.md",
+    "Computing Notes/10-19 Concepts/11 Digital Representation",
+    "Programming Survival Guide/10-19 Concepts/14 JavaScript/14.003 isNaN Function.md",
+    "Programming Survival Guide/10-19 Concepts/14 JavaScript/14.004 Template Literals.md",
+    "Programming Survival Guide/10-19 Concepts/14 JavaScript/14.002 User Input.md",
+    "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.018 CSS Properties.md",
+    "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.005 Programming Errors.md",
+    "Programming Survival Guide/10-19 Concepts/11 Definitions/11.012 Kerning, Tracking and Leading.md",
+    "Programming Survival Guide/10-19 Concepts/11 Definitions/11.011 Relative Units.md",
+    "Programming Survival Guide/10-19 Concepts/11 Definitions/11.010 Absolute Units.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.012 CSS at-rules.md",
-    "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.003 Data Types.md",
-    "Programming Survival Guide/10-19 Concepts/11 Definitions/11.002 Stacks.md",
-    "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.001 Variables in Data Structure in Java.md",
-    "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.002 Recursion.md",
-    "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.001 HTML 5 Document Structure.md",
-    "Programming Survival Guide/00 - 09 Adminstration/00",
-    "Programming Survival Guide/00 - 09 Adminstration",
+    "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.014 Text and Background Colours.md",
+    "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.015 CSS Selector Patterns.md",
+    "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.008 Enter CSS.md",
+    "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.017 Web Fonts.md",
+    "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.016 Typography in CSS.md",
+    "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.007 HTML Attributes.md",
+    "Programming Survival Guide/10-19 Concepts/11 Definitions/11.006 Inheritance.md",
+    "Programming Survival Guide/10-19 Concepts/11 Definitions/11.007 Scalable Vector Graphics (SVG).md",
+    "Programming Survival Guide/10-19 Concepts/11 Definitions/11.008 Font Stack.md",
+    "Programming Survival Guide/10-19 Concepts/11 Definitions/11.009 Font Definition File.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.015 Accumulator.md",
+    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
+    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.012 Multi-Threading.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.007X Cache Memory Diagram.canvas",
     "Programming Survival Guide/10-19 Concepts/14 JavaScript",
-    "Untitled.canvas",
+    "Programming Survival Guide/00 - 09 Adminstration",
     "Math part 2/1 Matrices",
-    "Math part 2",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.007X Cache Memory Diagram.canvas"
+    "Math part 2"
   ]
 }
