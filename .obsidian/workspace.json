@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "font definition",
+                "query": "hexa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,13 +147,14 @@
   },
   "active": "2ce3203982f762c3",
   "lastOpenFiles": [
+    "Computing Notes/20-29 Definitions/21 Terminology/21.010 Bits and Bytes.md",
+    "Computing Notes/10-19 Concepts/11 Digital Representation/11.001 Representing Characters and Text.md",
+    "Computing Notes/10-19 Concepts/11 Digital Representation/11.004 Representing Number.md",
     "Computing Notes/10-19 Concepts/11 Digital Representation/11.002 Representing Sound.md",
     "Computing Notes/10-19 Concepts/11 Digital Representation/11.003 Encoding Images.md",
-    "Computing Notes/10-19 Concepts/11 Digital Representation/11.004 Representing Number.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.001 Basic Function of Computers.md",
     "Programming Survival Guide/10-19 Concepts/14 JavaScript/14.004 Template Literals.md",
-    "Computing Notes/10-19 Concepts/11 Digital Representation/11.001 Representing Characters and Text.md",
     "Computing Notes/10-19 Concepts/11 Digital Representation",
     "Programming Survival Guide/10-19 Concepts/14 JavaScript/14.003 isNaN Function.md",
     "Programming Survival Guide/10-19 Concepts/14 JavaScript/14.002 User Input.md",
@@ -173,7 +174,6 @@
     "Programming Survival Guide/10-19 Concepts/11 Definitions/11.007 Scalable Vector Graphics (SVG).md",
     "Programming Survival Guide/10-19 Concepts/11 Definitions/11.008 Font Stack.md",
     "Programming Survival Guide/10-19 Concepts/11 Definitions/11.009 Font Definition File.md",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.015 Accumulator.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.007X Cache Memory Diagram.canvas",
     "Programming Survival Guide/10-19 Concepts/14 JavaScript",
     "Programming Survival Guide/00 - 09 Adminstration",
