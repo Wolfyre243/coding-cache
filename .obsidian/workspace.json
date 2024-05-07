@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.010 Bits and Bytes.md",
+                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.022 MAN.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.010 Bits and Bytes.md",
+                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.022 MAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.010 Bits and Bytes.md",
+                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.022 MAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.010 Bits and Bytes.md"
+                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.022 MAN.md"
               }
             }
           }
@@ -161,6 +161,14 @@
   },
   "active": "2dfab16bc2f93d2a",
   "lastOpenFiles": [
+    "Computing Notes/20-29 Definitions/21 Terminology/21.021 WAN.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.022 MAN.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.020 Internetworks.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.019 LAN.md",
+    "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.003 Communicating on a LAN.md",
+    "Pasted image 20240507153526.png",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.018 Broadcast IP Address.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.010 Bits and Bytes.md",
     "Computing Notes/10-19 Concepts/11 Digital Representation/11.005 Add & Sub in Binary.md",
     "Computing Notes/10-19 Concepts/11 Digital Representation/11.004 Representing Number.md",
     "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.001 TCPIP.md",
@@ -171,7 +179,6 @@
     "Computing Notes/20-29 Definitions/21 Terminology/21.015 Accumulator.md",
     "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.001 Network Components.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.011 Performance.md",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.010 Bits and Bytes.md",
     "Programming Survival Guide/10-19 Concepts/11 Definitions/11X Languages/11X.004 Assembly.md",
     "Programming Survival Guide/10-19 Concepts/11 Definitions/11X Languages/11X.003 Javascript.md",
     "Programming Survival Guide/10-19 Concepts/11 Definitions/11X Languages/11X.002 CSS.md",
@@ -182,13 +189,7 @@
     "Computing Notes/20-29 Definitions/21 Terminology/21.013 Instruction Register.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.012 Program Counter Register.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.018 CSS Properties.md",
-    "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.016 Typography in CSS.md",
-    "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.015 CSS Selector Patterns.md",
-    "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.008 Enter CSS.md",
     "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.006X Call Stack Diagram.canvas",
-    "Computing Notes/10-19 Concepts/11 Digital Representation/11.002 Representing Sound.md",
-    "Computing Notes/10-19 Concepts/11 Digital Representation/11.003 Encoding Images.md",
-    "Computing Notes/10-19 Concepts/11 Digital Representation/11.001 Representing Characters and Text.md",
     "Programming Survival Guide/00 - 09 Adminstration/00",
     "Programming Survival Guide/00 - 09 Adminstration",
     "Programming Survival Guide/10-19 Concepts/14 JavaScript",
