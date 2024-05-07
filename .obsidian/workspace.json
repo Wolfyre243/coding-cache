@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "decim",
+                "query": "register",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -159,8 +160,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2dfab16bc2f93d2a",
+  "active": "f18ace820d821ce7",
   "lastOpenFiles": [
+    "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.002 Steps of Network Communication.md",
+    "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.001 Network Components.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.010 Instructions and Programs.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.015 Accumulator.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.011 Performance.md",
@@ -170,7 +173,6 @@
     "Programming Survival Guide/10-19 Concepts/11 Definitions/11X Languages/11X.003 Javascript.md",
     "Programming Survival Guide/10-19 Concepts/11 Definitions/11X Languages/11X.002 CSS.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.017 Kilobits per second.md",
-    "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.001 Network Components.md",
     "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication",
     "Computing Notes/10-19 Concepts/11 Digital Representation/11.005 Add & Sub in Binary.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.003 Buses.md",
@@ -188,7 +190,6 @@
     "Computing Notes/10-19 Concepts/11 Digital Representation/11.001 Representing Characters and Text.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.016 Unicode.md",
     "Programming Survival Guide/10-19 Concepts/13 HTML and the Web/13.004 HTML Element Tags.md",
-    "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.006 Call Stacks.md",
     "Programming Survival Guide/00 - 09 Adminstration/00",
     "Programming Survival Guide/00 - 09 Adminstration",
     "Programming Survival Guide/10-19 Concepts/14 JavaScript",
