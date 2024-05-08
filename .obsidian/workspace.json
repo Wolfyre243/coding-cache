@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.023 IP Addresses.md",
+                "file": "Programming Survival Guide/10-19 Concepts/14 JavaScript/14.001 Initialising Variables.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.023 IP Addresses.md",
+                "file": "Programming Survival Guide/10-19 Concepts/14 JavaScript/14.001 Initialising Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.023 IP Addresses.md",
+                "file": "Programming Survival Guide/10-19 Concepts/14 JavaScript/14.001 Initialising Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.023 IP Addresses.md"
+                "file": "Programming Survival Guide/10-19 Concepts/14 JavaScript/14.001 Initialising Variables.md"
               }
             }
           }
@@ -161,10 +161,14 @@
   },
   "active": "2dfab16bc2f93d2a",
   "lastOpenFiles": [
+    "Programming Survival Guide/10-19 Concepts/14 JavaScript/14.004 Template Literals.md",
+    "Programming Survival Guide/10-19 Concepts/14 JavaScript/14.003 isNaN Function.md",
+    "Programming Survival Guide/10-19 Concepts/14 JavaScript/14.001 Initialising Variables.md",
+    "Programming Survival Guide/10-19 Concepts/14 JavaScript/14.005 Functions.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.023 IP Addresses.md",
     "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.003 Communicating on a LAN.md",
     "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.004 Internet, Intranet, Extranet.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.010 Instructions and Programs.md",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.023 IP Addresses.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.018 Broadcast IP Address.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.019 LAN.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.020 Internetworks.md",
@@ -184,11 +188,7 @@
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.011 Performance.md",
     "Programming Survival Guide/10-19 Concepts/11 Definitions/11X Languages/11X.004 Assembly.md",
     "Programming Survival Guide/10-19 Concepts/11 Definitions/11X Languages/11X.003 Javascript.md",
-    "Programming Survival Guide/10-19 Concepts/11 Definitions/11X Languages/11X.002 CSS.md",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.017 Kilobits per second.md",
     "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication",
-    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.003 Buses.md",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.014 General-Purpose Register.md",
     "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.006X Call Stack Diagram.canvas",
     "Programming Survival Guide/00 - 09 Adminstration/00",
     "Programming Survival Guide/00 - 09 Adminstration",
