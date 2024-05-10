@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "61393f170e80d265",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.010 Bits and Bytes.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.010 Bits and Bytes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.010 Bits and Bytes.md"
               }
             }
           }
@@ -158,13 +145,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "61393f170e80d265",
+  "active": "2ce3203982f762c3",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.003 Communicating on a LAN.md",
     "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.004 Internet, Intranet, Extranet.md",
     "Pasted image 20240507153526.png",
     "README.md",
-    "conflict-files-obsidian-git.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.010 Bits and Bytes.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.023 IP Addresses.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.022 MAN.md",
