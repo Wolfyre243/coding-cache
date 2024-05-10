@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.010 Bits and Bytes.md",
+                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.016 Unicode.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.010 Bits and Bytes.md",
+                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.016 Unicode.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.010 Bits and Bytes.md",
+                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.016 Unicode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.010 Bits and Bytes.md"
+                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.016 Unicode.md"
               }
             }
           }
@@ -147,12 +147,13 @@
   },
   "active": "2ce3203982f762c3",
   "lastOpenFiles": [
+    "Computing Notes/10-19 Concepts/11 Digital Representation/11.001 Representing Characters and Text.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.010 Bits and Bytes.md",
     "conflict-files-obsidian-git.md",
     "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.003 Communicating on a LAN.md",
     "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.004 Internet, Intranet, Extranet.md",
     "Pasted image 20240507153526.png",
     "README.md",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.010 Bits and Bytes.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.023 IP Addresses.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.022 MAN.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.021 WAN.md",
