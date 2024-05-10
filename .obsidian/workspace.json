@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "61393f170e80d265",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.010 Bits and Bytes.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.010 Bits and Bytes.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.010 Bits and Bytes.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -145,12 +158,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2ce3203982f762c3",
+  "active": "61393f170e80d265",
   "lastOpenFiles": [
+    "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.003 Communicating on a LAN.md",
+    "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.004 Internet, Intranet, Extranet.md",
+    "Pasted image 20240507153526.png",
+    "README.md",
+    "conflict-files-obsidian-git.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.010 Bits and Bytes.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.023 IP Addresses.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.022 MAN.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.021 WAN.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.020 Internetworks.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.019 LAN.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.018 Broadcast IP Address.md",
+    "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.002 HTTP.md",
+    "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.001 TCPIP.md",
+    "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.002 Steps of Network Communication.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.010 Instructions and Programs.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.009 Functional Units.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.006 Fundamentals of Network Communication.md",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.010 Bits and Bytes.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.001 Basic Function of Computers.md",
     "Computing Notes/10-19 Concepts/11 Digital Representation/11.002 Representing Sound.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.017 Kilobits per second.md",
@@ -159,21 +186,7 @@
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.015 Accumulator.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.011 Parallelism.md",
-    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.012 Multi-Threading.md",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.012 Program Counter Register.md",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.004 Data Paths.md",
-    "Programming Survival Guide/10-19 Concepts/11 Definitions/11X Languages/11X.004 Assembly.md",
-    "Programming Survival Guide/10-19 Concepts/11 Definitions/11X Languages/11X.003 Javascript.md",
-    "Programming Survival Guide/10-19 Concepts/11 Definitions/11X Languages/11X.002 CSS.md",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.014 General-Purpose Register.md",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.013 Instruction Register.md",
-    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.008 Operation of a Computer (summarised).md",
-    "Computing Notes/10-19 Concepts/11 Digital Representation/11.004 Representing Number.md",
-    "Computing Notes/10-19 Concepts/11 Digital Representation/11.001 Representing Characters and Text.md",
-    "Computing Notes/10-19 Concepts/11 Digital Representation/11.003 Encoding Images.md",
-    "Programming Survival Guide/10-19 Concepts/14 JavaScript/14.004 Template Literals.md",
     "Computing Notes/10-19 Concepts/11 Digital Representation",
-    "Programming Survival Guide/10-19 Concepts/14 JavaScript/14.003 isNaN Function.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.007X Cache Memory Diagram.canvas",
     "Programming Survival Guide/10-19 Concepts/14 JavaScript",
     "Programming Survival Guide/00 - 09 Adminstration",
