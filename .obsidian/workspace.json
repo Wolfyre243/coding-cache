@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/11 Digital Representation/11.004 Representing Number.md",
+                "file": "Computing Notes/10-19 Concepts/11 Digital Representation/11.005 Add & Sub in Binary.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/11 Digital Representation/11.004 Representing Number.md",
+                "file": "Computing Notes/10-19 Concepts/11 Digital Representation/11.005 Add & Sub in Binary.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/11 Digital Representation/11.004 Representing Number.md",
+                "file": "Computing Notes/10-19 Concepts/11 Digital Representation/11.005 Add & Sub in Binary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/11 Digital Representation/11.004 Representing Number.md"
+                "file": "Computing Notes/10-19 Concepts/11 Digital Representation/11.005 Add & Sub in Binary.md"
               }
             }
           }
@@ -147,6 +147,7 @@
   },
   "active": "2ce3203982f762c3",
   "lastOpenFiles": [
+    "Computing Notes/10-19 Concepts/11 Digital Representation/11.004 Representing Number.md",
     "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.003 DHCP.md",
     "Computing Notes/10-19 Concepts/11 Digital Representation/11.005 Add & Sub in Binary.md",
     "Computing Notes/10-19 Concepts/11 Digital Representation/11.002 Representing Sound.md",
@@ -173,7 +174,6 @@
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.001 Basic Function of Computers.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.017 Kilobits per second.md",
     "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.001 Network Components.md",
-    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
     "Computing Notes/10-19 Concepts/11 Digital Representation",
     "Computing Notes/20-29 Definitions/21 Terminology/21.007X Cache Memory Diagram.canvas",
     "Programming Survival Guide/10-19 Concepts/14 JavaScript",
