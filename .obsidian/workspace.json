@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/11 Digital Representation/11.005 Add & Sub in Binary.md",
+                "file": "Computing Notes/10-19 Concepts/11 Digital Representation/11.004 Representing Number.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/11 Digital Representation/11.005 Add & Sub in Binary.md",
+                "file": "Computing Notes/10-19 Concepts/11 Digital Representation/11.004 Representing Number.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/11 Digital Representation/11.005 Add & Sub in Binary.md",
+                "file": "Computing Notes/10-19 Concepts/11 Digital Representation/11.004 Representing Number.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/11 Digital Representation/11.005 Add & Sub in Binary.md"
+                "file": "Computing Notes/10-19 Concepts/11 Digital Representation/11.004 Representing Number.md"
               }
             }
           }
@@ -161,6 +161,7 @@
   },
   "active": "2dfab16bc2f93d2a",
   "lastOpenFiles": [
+    "Computing Notes/10-19 Concepts/11 Digital Representation/11.005 Add & Sub in Binary.md",
     "Computing Notes/10-19 Concepts/11 Digital Representation/11.004 Representing Number.md",
     "Computing Notes/10-19 Concepts/11 Digital Representation/11.002 Representing Sound.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.010 Bits and Bytes.md",
@@ -179,7 +180,6 @@
     "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.002 HTTP.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.022 MAN.md",
     "Pasted image 20240507153526.png",
-    "Computing Notes/10-19 Concepts/11 Digital Representation/11.005 Add & Sub in Binary.md",
     "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.001 TCPIP.md",
     "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.002 Steps of Network Communication.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
