@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/11 Digital Representation/11.005 Add & Sub in Binary.md",
+                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.010 Bits and Bytes.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "local host",
+                "query": "hexadecimal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/11 Digital Representation/11.005 Add & Sub in Binary.md",
+                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.010 Bits and Bytes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/11 Digital Representation/11.005 Add & Sub in Binary.md",
+                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.010 Bits and Bytes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/11 Digital Representation/11.005 Add & Sub in Binary.md"
+                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.010 Bits and Bytes.md"
               }
             }
           }
@@ -161,12 +162,12 @@
   },
   "active": "2dfab16bc2f93d2a",
   "lastOpenFiles": [
+    "Computing Notes/10-19 Concepts/11 Digital Representation/11.005 Add & Sub in Binary.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.023 IP Addresses.md",
     "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.004 Internet, Intranet, Extranet.md",
     "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.003 Communicating on a LAN.md",
     "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.003 DHCP.md",
     "Computing Notes/10-19 Concepts/11 Digital Representation/11.004 Representing Number.md",
-    "Computing Notes/10-19 Concepts/11 Digital Representation/11.005 Add & Sub in Binary.md",
     "Computing Notes/10-19 Concepts/11 Digital Representation/11.002 Representing Sound.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.010 Bits and Bytes.md",
     "Programming Survival Guide/10-19 Concepts/14 JavaScript/14.001 Initialising Variables.md",
