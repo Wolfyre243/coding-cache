@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.004 Internet, Intranet, Extranet.md",
+                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.030 DNS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.004 Internet, Intranet, Extranet.md",
+                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.030 DNS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.004 Internet, Intranet, Extranet.md"
+                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.030 DNS.md"
               }
             }
           }
@@ -171,12 +171,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1653c660c13859fc",
+  "active": "329a05e6929769c5",
   "lastOpenFiles": [
+    "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.004 Internet, Intranet, Extranet.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.029 MAC Address.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.030 DNS.md",
     "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.005 NAT.md",
-    "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.004 Internet, Intranet, Extranet.md",
     "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.003 Communicating on a LAN.md",
     "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.002 Steps of Network Communication.md",
     "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.001 Network Components.md",
