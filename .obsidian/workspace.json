@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.030 DNS.md",
+                "file": "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.005 TCPIP Stack.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mac address",
+                "query": "internetwork",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.030 DNS.md",
+                "file": "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.005 TCPIP Stack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.030 DNS.md",
+                "file": "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.005 TCPIP Stack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.030 DNS.md"
+                "file": "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.005 TCPIP Stack.md"
               }
             }
           }
@@ -173,9 +173,11 @@
   },
   "active": "329a05e6929769c5",
   "lastOpenFiles": [
+    "Computing Notes/20-29 Definitions/21 Terminology/21.020 Internetworks.md",
+    "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.005 TCPIP Stack.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.030 DNS.md",
     "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.004 Internet, Intranet, Extranet.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.029 MAC Address.md",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.030 DNS.md",
     "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.005 NAT.md",
     "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.003 Communicating on a LAN.md",
     "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.002 Steps of Network Communication.md",
@@ -198,8 +200,6 @@
     "Computing Notes/20-29 Definitions/21 Terminology/21.025 Frames and Packets.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.024 Signal Attenuation.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.010 Bits and Bytes.md",
-    "Computing Notes/10-19 Concepts/11 Digital Representation/11.004 Representing Number.md",
-    "Computing Notes/10-19 Concepts/11 Digital Representation/11.002 Representing Sound.md",
     "Pasted image 20240507153526.png",
     "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication",
     "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.006X Call Stack Diagram.canvas",
