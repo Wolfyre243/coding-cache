@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.005 TCPIP Stack.md",
+                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.025 Frames and Packets.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "internetwork",
+                "query": "packet",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.005 TCPIP Stack.md",
+                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.025 Frames and Packets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.005 TCPIP Stack.md",
+                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.025 Frames and Packets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.005 TCPIP Stack.md"
+                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.025 Frames and Packets.md"
               }
             }
           }
@@ -173,8 +174,8 @@
   },
   "active": "329a05e6929769c5",
   "lastOpenFiles": [
-    "Computing Notes/20-29 Definitions/21 Terminology/21.020 Internetworks.md",
     "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.005 TCPIP Stack.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.020 Internetworks.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.030 DNS.md",
     "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.004 Internet, Intranet, Extranet.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.029 MAC Address.md",
