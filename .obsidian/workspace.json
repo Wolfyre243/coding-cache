@@ -98,8 +98,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -182,9 +181,12 @@
   },
   "active": "329a05e6929769c5",
   "lastOpenFiles": [
+    "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.004 Wi-Fi Router.md",
+    "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.003 Wireless Access Points (WAP).md",
+    "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.002 Network Switches.md",
+    "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.001 Network Repeaters and Hubs.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.020 Internetworks.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.019 LAN.md",
-    "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.004 Wi-Fi Router.md",
     "Pasted image 20240516093057.png",
     "Pasted image 20240516093054.png",
     "Pasted image 20240516093041.png",
@@ -204,14 +206,11 @@
     "Computing Notes/20-29 Definitions/21 Terminology/21.028 Hosts.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.027 Subnet Masks.md",
     "Pasted image 20240515095509.png",
-    "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.002 Network Switches.md",
     "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.004 ICMP.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.026 SSID.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.006 Fundamentals of Network Communication.md",
-    "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.003 Wireless Access Points (WAP).md",
     "Computing Notes/10-19 Concepts/11 Digital Representation/11.005 Add & Sub in Binary.md",
     "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.003 DHCP.md",
-    "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.001 Network Repeaters and Hubs.md",
     "Pasted image 20240507153526.png",
     "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication",
     "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.006X Call Stack Diagram.canvas",
