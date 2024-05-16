@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.004 Internet, Intranet, Extranet.md",
+                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.019 LAN.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.025 Frames and Packets.md",
+                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.020 Internetworks.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,8 +51,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -81,8 +80,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "packet",
-                "matchingCase": false,
+                "query": "LAN",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -98,7 +97,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -118,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.019 LAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.019 LAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.019 LAN.md"
+              }
             }
           }
         ]
@@ -175,13 +179,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8647b17b0cdb943e",
+  "active": "1653c660c13859fc",
   "lastOpenFiles": [
+    "Pasted image 20240516093057.png",
+    "Pasted image 20240516093054.png",
+    "Pasted image 20240516093041.png",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.020 Internetworks.md",
+    "Programming Survival Guide/10-19 Concepts/11 Definitions/11.004 Networks.md",
+    "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.004 Internet, Intranet, Extranet.md",
+    "Pasted image 20240516092758.png",
     "Computing Notes/20-29 Definitions/21 Terminology/21.025 Frames and Packets.md",
     "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.005 TCPIP Stack.md",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.020 Internetworks.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.030 DNS.md",
-    "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.004 Internet, Intranet, Extranet.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.029 MAC Address.md",
     "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.005 NAT.md",
     "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.003 Communicating on a LAN.md",
@@ -202,8 +211,6 @@
     "Computing Notes/10-19 Concepts/11 Digital Representation/11.005 Add & Sub in Binary.md",
     "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.003 DHCP.md",
     "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.001 Network Repeaters and Hubs.md",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.024 Signal Attenuation.md",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.010 Bits and Bytes.md",
     "Pasted image 20240507153526.png",
     "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication",
     "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.006X Call Stack Diagram.canvas",
