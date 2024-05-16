@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.019 LAN.md",
+                "file": "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.002 Network Switches.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.002 Network Switches.md",
+                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.017 Bandwidth.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,8 +51,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -81,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hub",
+                "query": "kbp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,14 +178,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "329a05e6929769c5",
+  "active": "1653c660c13859fc",
   "lastOpenFiles": [
     "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.001 Network Repeaters and Hubs.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.019 LAN.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.017 Bandwidth.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.009 Memory Bandwidth.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.029 MAC Address.md",
+    "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.002 Network Switches.md",
     "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.004 Wi-Fi Router.md",
     "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.003 Wireless Access Points (WAP).md",
-    "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.002 Network Switches.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.020 Internetworks.md",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.019 LAN.md",
     "Pasted image 20240516093057.png",
     "Pasted image 20240516093054.png",
     "Pasted image 20240516093041.png",
@@ -196,12 +198,10 @@
     "Computing Notes/20-29 Definitions/21 Terminology/21.025 Frames and Packets.md",
     "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.005 TCPIP Stack.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.030 DNS.md",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.029 MAC Address.md",
     "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.005 NAT.md",
     "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.003 Communicating on a LAN.md",
     "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.002 Steps of Network Communication.md",
     "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.001 Network Components.md",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.017 Kilobits per second.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.023 IP Addresses.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.028 Hosts.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.027 Subnet Masks.md",
