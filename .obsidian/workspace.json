@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.004 Wi-Fi Router.md",
+                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.032 CIDR.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.004 Wi-Fi Router.md",
+                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.032 CIDR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.004 Wi-Fi Router.md",
+                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.032 CIDR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.004 Wi-Fi Router.md"
+                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.032 CIDR.md"
               }
             }
           }
@@ -192,6 +192,9 @@
   },
   "active": "1653c660c13859fc",
   "lastOpenFiles": [
+    "Pasted image 20240520114814.png",
+    "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.004 Wi-Fi Router.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.032 CIDR.md",
     "Pasted image 20240520105735.png",
     "Computing Notes/20-29 Definitions/21 Terminology/21.020 Internetworks.md",
     "Computing Notes/10-19 Concepts/11 Digital Representation/11.001 Representing Characters and Text.md",
@@ -200,7 +203,6 @@
     "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.003 Communicating on a LAN.md",
     "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.004 Internet, Intranet, Extranet.md",
     "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.005 TCPIP Stack.md",
-    "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.004 Wi-Fi Router.md",
     "Pasted image 20240520104906.png",
     "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.005 NAT.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.023 IP Addresses.md",
@@ -218,7 +220,6 @@
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.003 Buses.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.004 IO Polling & Interrupt.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
-    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.001 Basic Function of Computers.md",
     "Pasted image 20240516093057.png",
     "Pasted image 20240516093054.png",
     "Pasted image 20240516093041.png",
