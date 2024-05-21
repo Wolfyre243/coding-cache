@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
+                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.010 Instructions and Programs.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
+                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.010 Instructions and Programs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
+                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.010 Instructions and Programs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md"
+                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.010 Instructions and Programs.md"
               }
             }
           }
@@ -192,10 +192,14 @@
   },
   "active": "1653c660c13859fc",
   "lastOpenFiles": [
-    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.005 BIOS & CMOS Fundamentals.md",
-    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.003 Volatility.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.009 Functional Units.md",
+    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.008 Operation of a Computer (summarised).md",
+    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.007 Types of Computers.md",
+    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.004 IO Polling & Interrupt.md",
+    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.003 Buses.md",
+    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
+    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.005 BIOS & CMOS Fundamentals.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.003 Volatility.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.010 Instructions and Programs.md",
     "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.001 TCPIP.md",
     "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.002 HTTP.md",
@@ -217,10 +221,6 @@
     "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.005 TCPIP Stack.md",
     "Pasted image 20240520104906.png",
     "Computing Notes/20-29 Definitions/21 Terminology/21.023 IP Addresses.md",
-    "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.001 Network Repeaters and Hubs.md",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.027 Subnet Masks.md",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.028 Hosts.md",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.018 Broadcast IP Address.md",
     "Pasted image 20240516093057.png",
     "Pasted image 20240516093054.png",
     "Pasted image 20240516093041.png",
