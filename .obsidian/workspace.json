@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.001 Network Repeaters and Hubs.md",
+                "file": "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.002 Network Switches.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.001 Network Repeaters and Hubs.md",
+                "file": "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.002 Network Switches.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.001 Network Repeaters and Hubs.md",
+                "file": "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.002 Network Switches.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.001 Network Repeaters and Hubs.md"
+                "file": "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.002 Network Switches.md"
               }
             }
           }
@@ -160,6 +160,7 @@
   },
   "active": "0d3d072b3af1d48d",
   "lastOpenFiles": [
+    "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.001 Network Repeaters and Hubs.md",
     "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.004 Internet, Intranet, Extranet.md",
     "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.003 DHCP.md",
     "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.005 TCPIP Stack.md",
@@ -185,7 +186,6 @@
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.009 Functional Units.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.001 Basic Function of Computers.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.010 Instructions and Programs.md",
-    "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.005 NAT.md",
     "Pasted image 20240520114814.png",
     "Pasted image 20240520105735.png",
     "Pasted image 20240520104906.png",
