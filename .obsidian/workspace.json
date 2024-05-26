@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.003 Buses.md",
+                "file": "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.001 Network Components.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.003 Buses.md",
+                "file": "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.001 Network Components.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.003 Buses.md",
+                "file": "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.001 Network Components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.003 Buses.md"
+                "file": "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.001 Network Components.md"
               }
             }
           }
@@ -147,20 +147,25 @@
   },
   "active": "2ce3203982f762c3",
   "lastOpenFiles": [
-    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
-    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.003 Buses.md",
-    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.004 IO Polling & Interrupt.md",
-    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.007 Types of Computers.md",
+    "Computing Notes/10-19 Concepts/11 Digital Representation/11.004 Representing Number.md",
+    "Computing Notes/10-19 Concepts/11 Digital Representation/11.003 Encoding Images.md",
+    "Computing Notes/10-19 Concepts/11 Digital Representation/11.002 Representing Sound.md",
+    "Computing Notes/10-19 Concepts/11 Digital Representation/11.001 Representing Characters and Text.md",
+    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.012 Multi-Threading.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.006 Fundamentals of Network Communication.md",
+    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.005 BIOS & CMOS Fundamentals.md",
+    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.004 IO Polling & Interrupt.md",
+    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
+    "Computing Notes/10-19 Concepts/11 Digital Representation/11.005 Add & Sub in Binary.md",
+    "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.001 Network Components.md",
+    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.003 Buses.md",
+    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.007 Types of Computers.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.008 Operation of a Computer (summarised).md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.009 Functional Units.md",
-    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.005 BIOS & CMOS Fundamentals.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.001 Basic Function of Computers.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.010 Instructions and Programs.md",
     "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.005 NAT.md",
     "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.001 TCPIP.md",
-    "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.001 Network Components.md",
-    "Computing Notes/10-19 Concepts/11 Digital Representation/11.001 Representing Characters and Text.md",
     "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.001 Network Repeaters and Hubs.md",
     "conflict-files-obsidian-git.md",
     "Pasted image 20240520114814.png",
@@ -171,16 +176,11 @@
     "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.002 Network Switches.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.030 DNS.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.029 MAC Address.md",
-    "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.004 Internet, Intranet, Extranet.md",
-    "21.030 DNS.md",
-    "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.004 Operators.md",
     "Pasted image 20240516093057.png",
     "Pasted image 20240516093054.png",
     "Pasted image 20240516093041.png",
     "Pasted image 20240516092758.png",
     "Pasted image 20240515095509.png",
-    "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.004 ICMP.md",
-    "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.005 Network Interface Cards (NICs).md",
     "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.006X Call Stack Diagram.canvas",
     "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices",
     "Pasted image 20240507153526.png",
