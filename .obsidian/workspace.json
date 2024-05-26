@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.001 TCPIP.md",
+                "file": "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.005 NAT.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.001 TCPIP.md",
+                "file": "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.005 NAT.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.001 TCPIP.md",
+                "file": "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.005 NAT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.001 TCPIP.md"
+                "file": "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.005 NAT.md"
               }
             }
           }
@@ -147,6 +147,7 @@
   },
   "active": "2ce3203982f762c3",
   "lastOpenFiles": [
+    "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.001 TCPIP.md",
     "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.001 Network Components.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.003 Buses.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.004 IO Polling & Interrupt.md",
@@ -181,7 +182,6 @@
     "Programming Survival Guide/10-19 Concepts/14 JavaScript/14.005 Functions.md",
     "Programming Survival Guide/10-19 Concepts/11 Definitions/11.006 Inheritance.md",
     "Programming Survival Guide/10-19 Concepts/11 Definitions/11.012 Kerning, Tracking and Leading.md",
-    "Programming Survival Guide/10-19 Concepts/14 JavaScript/14.004 Template Literals.md",
     "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices",
     "Pasted image 20240507153526.png",
     "Computing Notes/10-19 Concepts/11 Digital Representation",
