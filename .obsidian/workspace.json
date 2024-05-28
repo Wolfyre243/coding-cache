@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.023 IP Addresses.md",
+                "file": "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.003 Communicating on a LAN.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +37,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.002 Steps of Network Communication.md",
+                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.027 Subnet Masks.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mac",
+                "query": "subn",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.002 Steps of Network Communication.md",
+                "file": "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.003 Communicating on a LAN.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.002 Steps of Network Communication.md",
+                "file": "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.003 Communicating on a LAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.002 Steps of Network Communication.md"
+                "file": "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.003 Communicating on a LAN.md"
               }
             }
           }
@@ -170,8 +169,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "11fc3e5136b7a827",
+  "active": "2ce3203982f762c3",
   "lastOpenFiles": [
+    "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.003 Wireless Access Points (WAP).md",
+    "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.002 Network Switches.md",
+    "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.001 Network Repeaters and Hubs.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.023 IP Addresses.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.027 Subnet Masks.md",
+    "Computing Notes/10-19 Concepts/11 Digital Representation/11.005 Add & Sub in Binary.md",
+    "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.002 Steps of Network Communication.md",
     "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.004 Internet, Intranet, Extranet.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.022 MAN.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.021 WAN.md",
@@ -191,13 +197,6 @@
     "Computing Notes/20-29 Definitions/21 Terminology/21.007 Cache Memory.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.014 General-Purpose Register.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.013 Instruction Register.md",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.012 Program Counter Register.md",
-    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.001 Basic Function of Computers.md",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.017 Bandwidth.md",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.030 DNS.md",
-    "21.030 DNS.md",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.015 Accumulator.md",
-    "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.002 Network Switches.md",
     "Pasted image 20240520114814.png",
     "Pasted image 20240520105735.png",
     "Pasted image 20240520104906.png",
