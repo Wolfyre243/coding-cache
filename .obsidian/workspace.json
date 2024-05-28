@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.003 Communicating on a LAN.md",
+                "file": "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.002 Network Switches.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.003 Communicating on a LAN.md",
+                "file": "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.002 Network Switches.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.003 Communicating on a LAN.md",
+                "file": "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.002 Network Switches.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.003 Communicating on a LAN.md"
+                "file": "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.002 Network Switches.md"
               }
             }
           }
@@ -171,9 +171,12 @@
   },
   "active": "2ce3203982f762c3",
   "lastOpenFiles": [
+    "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.005 Network Interface Cards (NICs).md",
+    "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.004 Wi-Fi Router.md",
     "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.003 Wireless Access Points (WAP).md",
-    "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.002 Network Switches.md",
     "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.001 Network Repeaters and Hubs.md",
+    "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.003 Communicating on a LAN.md",
+    "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.002 Network Switches.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.023 IP Addresses.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.027 Subnet Masks.md",
     "Computing Notes/10-19 Concepts/11 Digital Representation/11.005 Add & Sub in Binary.md",
@@ -182,7 +185,6 @@
     "Computing Notes/20-29 Definitions/21 Terminology/21.022 MAN.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.021 WAN.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.019 LAN.md",
-    "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.004 Wi-Fi Router.md",
     "Computing Notes/10-19 Concepts/11 Digital Representation/11.002 Representing Sound.md",
     "Computing Notes/10-19 Concepts/11 Digital Representation/11.003 Encoding Images.md",
     "Computing Notes/10-19 Concepts/11 Digital Representation/11.001 Representing Characters and Text.md",
@@ -195,8 +197,6 @@
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.010 Instructions and Programs.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.003 Buses.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.007 Cache Memory.md",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.014 General-Purpose Register.md",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.013 Instruction Register.md",
     "Pasted image 20240520114814.png",
     "Pasted image 20240520105735.png",
     "Pasted image 20240520104906.png",
