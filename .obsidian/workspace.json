@@ -20,16 +20,6 @@
             }
           },
           {
-            "id": "aa4a2600d29df3f2",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              }
-            }
-          },
-          {
             "id": "0d3d072b3af1d48d",
             "type": "leaf",
             "state": {
@@ -47,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.027 Subnet Masks.md",
+                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -83,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ip address",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -100,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -121,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.023 IP Addresses.md",
+                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -138,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.023 IP Addresses.md",
+                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.023 IP Addresses.md"
+                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md"
               }
             }
           }
@@ -181,8 +170,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aa4a2600d29df3f2",
+  "active": "11fc3e5136b7a827",
   "lastOpenFiles": [
+    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.001 Basic Function of Computers.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.023 IP Addresses.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.010 Instructions and Programs.md",
     "Computing Notes/10-19 Concepts/11 Digital Representation/11.004 Representing Number.md",
     "Computing Notes/10-19 Concepts/11 Digital Representation/11.002 Representing Sound.md",
@@ -192,13 +183,11 @@
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.009 Functional Units.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.006 Fundamentals of Network Communication.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
-    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.001 Basic Function of Computers.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.012 Multi-Threading.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.007 Cache Memory.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.008 Operation of a Computer (summarised).md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.007 Types of Computers.md",
     "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.001 TCPIP.md",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.023 IP Addresses.md",
     "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.004 Wi-Fi Router.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.022 MAN.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.021 WAN.md",
