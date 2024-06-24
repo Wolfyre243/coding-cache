@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "09edc2b4b0a60c22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "442aec213d5eeb36",
             "type": "leaf",
             "state": {
@@ -63,7 +75,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.010 Instructions and Programs.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.010 Instructions and Programs.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.010 Instructions and Programs.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -190,8 +203,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1653c660c13859fc",
+  "active": "09edc2b4b0a60c22",
   "lastOpenFiles": [
+    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.010 Instructions and Programs.md",
+    "conflict-files-obsidian-git.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.011 Performance.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.005 BIOS & CMOS Fundamentals.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.003 Buses.md",
@@ -200,7 +215,6 @@
     "Computing Notes/10-19 Concepts/11 Digital Representation/11.005 Add & Sub in Binary.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.007 Cache Memory.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.007X Cache Memory Diagram.canvas",
-    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.010 Instructions and Programs.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.012 Multi-Threading.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.004 IO Polling & Interrupt.md",
     "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.005 NAT.md",
@@ -220,7 +234,6 @@
     "Pasted image 20240520105735.png",
     "Computing Notes/20-29 Definitions/21 Terminology/21.020 Internetworks.md",
     "Computing Notes/10-19 Concepts/11 Digital Representation/11.001 Representing Characters and Text.md",
-    "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.001 Network Components.md",
     "Pasted image 20240520104906.png",
     "Pasted image 20240516093057.png",
     "Pasted image 20240516093054.png",
