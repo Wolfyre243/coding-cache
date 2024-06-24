@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.008 TCP.md",
+                "file": "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.009 UDP.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/14 All about TCPIP/14.001 What is TCPIP.md",
+                "file": "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.009 UDP.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/14 All about TCPIP/14.001 What is TCPIP.md",
+                "file": "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.009 UDP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/14 All about TCPIP/14.001 What is TCPIP.md"
+                "file": "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.009 UDP.md"
               }
             }
           }
@@ -170,11 +169,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "93f531d456334782",
+  "active": "11fc3e5136b7a827",
   "lastOpenFiles": [
-    "Computing Notes/20-29 Definitions/21 Terminology/21.035 CRC.md",
+    "Pasted image 20240624225903.png",
     "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.008 TCP.md",
+    "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.009 UDP.md",
+    "Pasted image 20240624225447.png",
     "Computing Notes/10-19 Concepts/14 All about TCPIP/14.001 What is TCPIP.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.035 CRC.md",
     "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.007 The OSI Model.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.023 IP Addresses.md",
     "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.001 TCPIP.md",
@@ -188,7 +190,6 @@
     "Pasted image 20240624102117.png",
     "Computing Notes/20-29 Definitions/21 Terminology/21.034 Telnet.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.033 SSH.md",
-    "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.009 UDP.md",
     "Computing Notes/10-19 Concepts/14 All about TCPIP",
     "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.004 Internet, Intranet, Extranet.md",
     "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.002 HTTP.md",
@@ -201,14 +202,12 @@
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.011 Performance.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.012 Multi-Threading.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.006 Fundamentals of Network Communication.md",
-    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.005 BIOS & CMOS Fundamentals.md",
     "Pasted image 20240520114814.png",
     "Pasted image 20240520105735.png",
     "Pasted image 20240520104906.png",
     "Pasted image 20240516093057.png",
     "Pasted image 20240516093054.png",
     "Pasted image 20240516093041.png",
-    "Pasted image 20240516092758.png",
     "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.006X Call Stack Diagram.canvas",
     "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices",
     "Computing Notes/10-19 Concepts/11 Digital Representation",
