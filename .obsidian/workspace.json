@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/14 All about TCPIP/14.001 What is TCPIP.md",
+                "file": "Computing Notes/20-29 Definitions/21 Terminology/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/14 All about TCPIP/14.001 What is TCPIP.md",
+                "file": "Computing Notes/20-29 Definitions/21 Terminology/Untitled.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/14 All about TCPIP/14.001 What is TCPIP.md",
+                "file": "Computing Notes/20-29 Definitions/21 Terminology/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/14 All about TCPIP/14.001 What is TCPIP.md"
+                "file": "Computing Notes/20-29 Definitions/21 Terminology/Untitled.md"
               }
             }
           }
@@ -172,9 +172,10 @@
   },
   "active": "93f531d456334782",
   "lastOpenFiles": [
+    "Computing Notes/10-19 Concepts/14 All about TCPIP/14.001 What is TCPIP.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/Untitled.md",
     "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.007 The OSI Model.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.023 IP Addresses.md",
-    "Computing Notes/10-19 Concepts/14 All about TCPIP/14.001 What is TCPIP.md",
     "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.008 TCP.md",
     "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.001 TCPIP.md",
     "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.005 TCPIP Stack.md",
@@ -201,7 +202,6 @@
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.012 Multi-Threading.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.006 Fundamentals of Network Communication.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.005 BIOS & CMOS Fundamentals.md",
-    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.004 IO Polling & Interrupt.md",
     "Pasted image 20240520114814.png",
     "Pasted image 20240520105735.png",
     "Pasted image 20240520104906.png",
