@@ -4,63 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "699b463dff8d33ab",
+        "id": "0015f2d56cfc390d",
         "type": "tabs",
         "children": [
           {
-            "id": "1653c660c13859fc",
+            "id": "11fc3e5136b7a827",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.008 TCP.md",
+                "file": "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.002 Network Switches.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "442aec213d5eeb36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computing Notes/10-19 Concepts/14 All about TCPIP/14.002 Transport Layer Protocols.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "329a05e6929769c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.010 Bits and Bytes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2dfab16bc2f93d2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.009 Functional Units.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0fa076bd12615a02",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -92,10 +48,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dns",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -129,9 +85,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.008 TCP.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.002 Network Switches.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -146,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.008 TCP.md",
+                "file": "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.002 Network Switches.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.008 TCP.md"
+                "file": "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.002 Network Switches.md"
               }
             }
           }
@@ -177,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,36 +145,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1653c660c13859fc",
+  "active": "11fc3e5136b7a827",
   "lastOpenFiles": [
+    "Pasted image 20240624102117.png",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.034 Telnet.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.033 SSH.md",
     "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.009 UDP.md",
     "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.008 TCP.md",
-    "Computing Notes/10-19 Concepts/14 All about TCPIP/14.002 Transport Layer Protocols.md",
-    "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.005 NAT.md",
-    "Computing Notes/10-19 Concepts/14 All about TCPIP/14.001 What is TCPIP.md",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.030 DNS.md",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.033 SSH.md",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.034 Telnet.md",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.023 IP Addresses.md",
     "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.007 The OSI Model.md",
-    "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.001 Network Components.md",
-    "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.002 Steps of Network Communication.md",
-    "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.003 Communicating on a LAN.md",
+    "Computing Notes/10-19 Concepts/14 All about TCPIP/14.002 Transport Layer Protocols.md",
+    "Computing Notes/10-19 Concepts/14 All about TCPIP/14.001 What is TCPIP.md",
+    "Computing Notes/10-19 Concepts/14 All about TCPIP",
     "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.004 Internet, Intranet, Extranet.md",
-    "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.005 TCPIP Stack.md",
-    "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.002 Network Switches.md",
-    "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.001 Network Repeaters and Hubs.md",
-    "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.005 Network Interface Cards (NICs).md",
-    "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.004 Wi-Fi Router.md",
-    "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.003 Wireless Access Points (WAP).md",
-    "Pasted image 20240624102117.png",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.023 IP Addresses.md",
+    "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.002 HTTP.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.007 Cache Memory.md",
+    "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.003 Communicating on a LAN.md",
+    "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.002 Steps of Network Communication.md",
+    "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.001 Network Components.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.010 Instructions and Programs.md",
-    "conflict-files-obsidian-git.md",
+    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.009 Functional Units.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.011 Performance.md",
+    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.012 Multi-Threading.md",
+    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.006 Fundamentals of Network Communication.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.005 BIOS & CMOS Fundamentals.md",
-    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.003 Buses.md",
+    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.004 IO Polling & Interrupt.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.007X Cache Memory Diagram.canvas",
+    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.001 Basic Function of Computers.md",
+    "Computing Notes/10-19 Concepts/11 Digital Representation/11.004 Representing Number.md",
+    "Computing Notes/10-19 Concepts/11 Digital Representation/11.002 Representing Sound.md",
     "Pasted image 20240520114814.png",
     "Pasted image 20240520105735.png",
     "Pasted image 20240520104906.png",
@@ -228,13 +182,13 @@
     "Pasted image 20240516093041.png",
     "Pasted image 20240516092758.png",
     "Pasted image 20240515095509.png",
-    "Pasted image 20240507153526.png",
-    "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication",
     "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.006X Call Stack Diagram.canvas",
-    "Programming Survival Guide/00 - 09 Adminstration/00",
-    "Programming Survival Guide/00 - 09 Adminstration",
+    "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices",
+    "Pasted image 20240507153526.png",
+    "Computing Notes/10-19 Concepts/11 Digital Representation",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.007X Cache Memory Diagram.canvas",
     "Programming Survival Guide/10-19 Concepts/14 JavaScript",
-    "Untitled.canvas",
+    "Programming Survival Guide/00 - 09 Adminstration",
     "Math part 2/1 Matrices",
     "Math part 2"
   ]
