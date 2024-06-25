@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "5ba91eeb91023e04",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
+          },
+          {
             "id": "442aec213d5eeb36",
             "type": "leaf",
             "state": {
@@ -63,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,7 +201,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1653c660c13859fc",
+  "active": "5ba91eeb91023e04",
   "lastOpenFiles": [
     "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.009 UDP.md",
     "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.008 TCP.md",
