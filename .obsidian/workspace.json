@@ -34,16 +34,6 @@
             }
           },
           {
-            "id": "950e463a738e2859",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              }
-            }
-          },
-          {
             "id": "c9503dca99b05e58",
             "type": "leaf",
             "state": {
@@ -83,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,7 +199,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "950e463a738e2859",
+  "active": "f4519596d4e148a2",
   "lastOpenFiles": [
     "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.003 DHCP.md",
     "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.004 Wi-Fi Router.md",
