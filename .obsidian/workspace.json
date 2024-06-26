@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.027 Subnet Masks.md",
+                "file": "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.001 Network Repeaters and Hubs.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.027 Subnet Masks.md",
+                "file": "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.001 Network Repeaters and Hubs.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.027 Subnet Masks.md",
+                "file": "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.001 Network Repeaters and Hubs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.027 Subnet Masks.md"
+                "file": "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.001 Network Repeaters and Hubs.md"
               }
             }
           }
@@ -184,8 +184,9 @@
   },
   "active": "f4519596d4e148a2",
   "lastOpenFiles": [
-    "Computing Notes/20-29 Definitions/21 Terminology/21.032 CIDR.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.028 Hosts.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.027 Subnet Masks.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.032 CIDR.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.023 IP Addresses.md",
     "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.003 Communicating on a LAN.md",
     "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.004 Wi-Fi Router.md",
@@ -218,7 +219,6 @@
     "Computing Notes/20-29 Definitions/21 Terminology/21.034 Telnet.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.033 SSH.md",
     "Computing Notes/10-19 Concepts/14 All about TCPIP",
-    "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.004 Internet, Intranet, Extranet.md",
     "Pasted image 20240520114814.png",
     "Pasted image 20240520105735.png",
     "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.006X Call Stack Diagram.canvas",
