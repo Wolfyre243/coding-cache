@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.004 Wi-Fi Router.md",
+                "file": "Computing Notes/10-19 Concepts/14 All about TCPIP/14.003 Transport Layer Protocols.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.004 Wi-Fi Router.md",
+                "file": "Computing Notes/10-19 Concepts/14 All about TCPIP/14.003 Transport Layer Protocols.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.004 Wi-Fi Router.md",
+                "file": "Computing Notes/10-19 Concepts/14 All about TCPIP/14.003 Transport Layer Protocols.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.004 Wi-Fi Router.md"
+                "file": "Computing Notes/10-19 Concepts/14 All about TCPIP/14.003 Transport Layer Protocols.md"
               }
             }
           }
@@ -201,8 +201,13 @@
   },
   "active": "f4519596d4e148a2",
   "lastOpenFiles": [
-    "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.003 DHCP.md",
+    "Computing Notes/10-19 Concepts/14 All about TCPIP/14.002 Telnet vs SSH.md",
+    "Computing Notes/10-19 Concepts/14 All about TCPIP/14.003 Transport Layer Protocols.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.034 Telnet.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.033 SSH.md",
+    "Computing Notes/10-19 Concepts/14 All about TCPIP/14.001 What is TCPIP.md",
     "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.004 Wi-Fi Router.md",
+    "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.003 DHCP.md",
     "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.003 Communicating on a LAN.md",
     "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.003 Wireless Access Points (WAP).md",
     "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.002 Network Switches.md",
@@ -224,16 +229,11 @@
     "Pasted image 20240624225903.png",
     "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.008 TCP.md",
     "Pasted image 20240624225447.png",
-    "Computing Notes/10-19 Concepts/14 All about TCPIP/14.001 What is TCPIP.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.035 CRC.md",
     "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.007 The OSI Model.md",
     "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.001 TCPIP.md",
-    "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.005 TCPIP Stack.md",
-    "Computing Notes/10-19 Concepts/14 All about TCPIP/14.003 Transport Layer Protocols.md",
     "Pasted image 20240624220142.png",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.030 DNS.md",
     "Pasted image 20240624185210.png",
-    "Computing Notes/10-19 Concepts/14 All about TCPIP/14.002 Telnet vs SSH.md",
     "Pasted image 20240624102117.png",
     "Computing Notes/10-19 Concepts/14 All about TCPIP",
     "Pasted image 20240520114814.png",
