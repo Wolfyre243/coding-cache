@@ -34,6 +34,19 @@
             }
           },
           {
+            "id": "7bf5601c6c03e8ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "87f5131963e0f8b7",
             "type": "leaf",
             "state": {
@@ -86,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -152,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.005 Network Interface Cards (NICs).md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -169,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.005 Network Interface Cards (NICs).md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.005 Network Interface Cards (NICs).md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -212,11 +225,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f4519596d4e148a2",
+  "active": "7bf5601c6c03e8ec",
   "lastOpenFiles": [
+    "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.005 Network Interface Cards (NICs).md",
+    "conflict-files-obsidian-git.md",
+    "Computing Notes/10-19 Concepts/15  LINUX/15.005 Linux Command List.md",
+    "Computing Notes/10-19 Concepts/15  LINUX/15.004 Actually using Linux.md",
+    "Computing Notes/10-19 Concepts/15  LINUX/15.003 Hypervisors.md",
+    "Computing Notes/10-19 Concepts/15  LINUX/15.002 Using VMware.md",
+    "Computing Notes/10-19 Concepts/15  LINUX/15.001 Overview of Linux.md",
+    "Computing Notes/10-19 Concepts/15  LINUX",
     "Computing Notes/10-19 Concepts/14 All about TCPIP/14.002 Telnet vs SSH.md",
     "Computing Notes/10-19 Concepts/14 All about TCPIP/14.001 What is TCPIP.md",
-    "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.005 Network Interface Cards (NICs).md",
     "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.004 Wi-Fi Router.md",
     "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.003 Wireless Access Points (WAP).md",
     "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.002 Network Switches.md",
@@ -234,15 +254,9 @@
     "Computing Notes/10-19 Concepts/14 All about TCPIP/14.003 Transport Layer Protocols.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.034 Telnet.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.033 SSH.md",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.028 Hosts.md",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.027 Subnet Masks.md",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.032 CIDR.md",
-    "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.009 UDP.md",
     "Pasted image 20240625111535.png",
     "Pasted image 20240625105602.png",
     "Pasted image 20240625104707.png",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.036 Ports.md",
-    "Computing Notes/10-19 Concepts/14 All about TCPIP/14.006 Physical Layer.md",
     "Pasted image 20240624225903.png",
     "Pasted image 20240624225447.png",
     "Pasted image 20240624220142.png",
