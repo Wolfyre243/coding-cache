@@ -20,6 +20,19 @@
             }
           },
           {
+            "id": "c6310aad5a5ad909",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "8a4ccb9a9fc59882",
             "type": "leaf",
             "state": {
@@ -39,7 +52,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/14 All about TCPIP/14.001 What is TCPIP.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/14 All about TCPIP/14.001 What is TCPIP.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/14 All about TCPIP/14.001 What is TCPIP.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -166,11 +180,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d2378ee3f3265562",
+  "active": "c6310aad5a5ad909",
   "lastOpenFiles": [
+    "Computing Notes/10-19 Concepts/14 All about TCPIP/14.001 What is TCPIP.md",
+    "conflict-files-obsidian-git.md",
     "Computing Notes/10-19 Concepts/14 All about TCPIP/14.005 Data Link Layer Protocols.md",
     "Computing Notes/10-19 Concepts/14 All about TCPIP/14.002 Telnet vs SSH.md",
-    "Computing Notes/10-19 Concepts/14 All about TCPIP/14.001 What is TCPIP.md",
     "Computing Notes/10-19 Concepts/14 All about TCPIP/14.006 Physical Layer.md",
     "Computing Notes/10-19 Concepts/14 All about TCPIP/14.004 Internetwork Layer Protocols.md",
     "Computing Notes/10-19 Concepts/14 All about TCPIP/14.003 Transport Layer Protocols.md",
@@ -190,7 +205,6 @@
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.009 Functional Units.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.010 Bits and Bytes.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.032 CIDR.md",
-    "conflict-files-obsidian-git.md",
     "Pasted image 20240624225903.png",
     "Pasted image 20240624225447.png",
     "Pasted image 20240624220142.png",
