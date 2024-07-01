@@ -34,19 +34,6 @@
             }
           },
           {
-            "id": "7bf5601c6c03e8ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "87f5131963e0f8b7",
             "type": "leaf",
             "state": {
@@ -99,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -165,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.023 IP Addresses.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -182,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.023 IP Addresses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Computing Notes/20-29 Definitions/21 Terminology/21.023 IP Addresses.md"
               }
             }
           }
@@ -225,7 +212,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7bf5601c6c03e8ec",
+  "active": "d3a95d0bb4784137",
   "lastOpenFiles": [
     "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.005 Network Interface Cards (NICs).md",
     "conflict-files-obsidian-git.md",
