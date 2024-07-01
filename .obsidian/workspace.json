@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/15  LINUX/15.001 Overview of Linux.md",
+                "file": "Computing Notes/10-19 Concepts/15  LINUX/15.005 Linux Command List.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/15  LINUX/15.001 Overview of Linux.md",
+                "file": "Computing Notes/10-19 Concepts/15  LINUX/15.005 Linux Command List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/15  LINUX/15.001 Overview of Linux.md",
+                "file": "Computing Notes/10-19 Concepts/15  LINUX/15.005 Linux Command List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/15  LINUX/15.001 Overview of Linux.md"
+                "file": "Computing Notes/10-19 Concepts/15  LINUX/15.005 Linux Command List.md"
               }
             }
           }
@@ -170,13 +170,17 @@
   },
   "active": "98d26f40d44eeaf6",
   "lastOpenFiles": [
+    "Computing Notes/10-19 Concepts/15  LINUX/15.004 Actually using Linux.md",
+    "Computing Notes/10-19 Concepts/15  LINUX/15.005 Linux Command List.md",
+    "Computing Notes/10-19 Concepts/15  LINUX/15.003 Hypervisors.md",
+    "Computing Notes/10-19 Concepts/15  LINUX/15.002 Using VMware.md",
+    "Computing Notes/10-19 Concepts/15  LINUX/15.001 Overview of Linux.md",
     "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.008 TCP.md",
     "Computing Notes/10-19 Concepts/14 All about TCPIP/14.005 Data Link Layer Protocols.md",
     "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.009 UDP.md",
     "Computing Notes/10-19 Concepts/14 All about TCPIP/14.006 Physical Layer.md",
     "Computing Notes/10-19 Concepts/14 All about TCPIP/14.004 Internetwork Layer Protocols.md",
     "Computing Notes/10-19 Concepts/14 All about TCPIP/14.003 Transport Layer Protocols.md",
-    "Computing Notes/10-19 Concepts/15  LINUX/15.001 Overview of Linux.md",
     "Computing Notes/10-19 Concepts/14 All about TCPIP/14.001 What is TCPIP.md",
     "conflict-files-obsidian-git.md",
     "Computing Notes/10-19 Concepts/14 All about TCPIP/14.002 Telnet vs SSH.md",
@@ -199,10 +203,6 @@
     "Pasted image 20240624225447.png",
     "Pasted image 20240624220142.png",
     "Pasted image 20240624185210.png",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.030 DNS.md",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.034 Telnet.md",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.023 IP Addresses.md",
-    "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.001 Network Components.md",
     "Pasted image 20240624102117.png",
     "Computing Notes/20-29 Definitions/21 Terminology/21.007X Cache Memory Diagram.canvas",
     "Pasted image 20240520114814.png",
