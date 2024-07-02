@@ -4,45 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "699b463dff8d33ab",
+        "id": "744f1fc1d1123053",
         "type": "tabs",
         "children": [
           {
-            "id": "d2378ee3f3265562",
+            "id": "3626653b06881ba7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computing Notes/10-19 Concepts/14 All about TCPIP/14.005 Data Link Layer Protocols.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "98d26f40d44eeaf6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computing Notes/10-19 Concepts/15  LINUX/15.005 Linux Command List.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f60df01f02bb7db6",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/15  LINUX/15.005 Linux Command List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/15  LINUX/15.005 Linux Command List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Computing Notes/10-19 Concepts/15  LINUX/15.005 Linux Command List.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -169,13 +138,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "98d26f40d44eeaf6",
+  "active": "3626653b06881ba7",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Computing Notes/10-19 Concepts/15  LINUX/15.005 Linux Command List.md",
     "Computing Notes/10-19 Concepts/15  LINUX/15.001 Overview of Linux.md",
     "Computing Notes/10-19 Concepts/15  LINUX/15.004 Actually using Linux.md",
     "Computing Notes/10-19 Concepts/15  LINUX/15.003 Hypervisors.md",
     "Computing Notes/10-19 Concepts/15  LINUX/15.002 Using VMware.md",
-    "Computing Notes/10-19 Concepts/15  LINUX/15.005 Linux Command List.md",
     "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.008 TCP.md",
     "Computing Notes/10-19 Concepts/14 All about TCPIP/14.005 Data Link Layer Protocols.md",
     "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.009 UDP.md",
@@ -183,7 +153,6 @@
     "Computing Notes/10-19 Concepts/14 All about TCPIP/14.004 Internetwork Layer Protocols.md",
     "Computing Notes/10-19 Concepts/14 All about TCPIP/14.003 Transport Layer Protocols.md",
     "Computing Notes/10-19 Concepts/14 All about TCPIP/14.001 What is TCPIP.md",
-    "conflict-files-obsidian-git.md",
     "Computing Notes/10-19 Concepts/14 All about TCPIP/14.002 Telnet vs SSH.md",
     "Pasted image 20240625111535.png",
     "Computing Notes/20-29 Definitions/21 Terminology/21.036 Ports.md",
