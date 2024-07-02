@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.005 TCPIP Stack.md",
+                "file": "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.008 TCP.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.005 TCPIP Stack.md",
+                "file": "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.008 TCP.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.005 TCPIP Stack.md",
+                "file": "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.008 TCP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.005 TCPIP Stack.md"
+                "file": "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.008 TCP.md"
               }
             }
           }
@@ -214,10 +214,17 @@
   },
   "active": "d3a95d0bb4784137",
   "lastOpenFiles": [
-    "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.004 Internet, Intranet, Extranet.md",
+    "Computing Notes/10-19 Concepts/14 All about TCPIP/14.001 What is TCPIP.md",
+    "Computing Notes/10-19 Concepts/14 All about TCPIP/14.003 Transport Layer Protocols.md",
+    "Computing Notes/10-19 Concepts/14 All about TCPIP/14.002 Telnet vs SSH.md",
     "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.003 Communicating on a LAN.md",
     "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.002 Steps of Network Communication.md",
     "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.001 Network Components.md",
+    "Computing Notes/10-19 Concepts/14 All about TCPIP/14.006 Physical Layer.md",
+    "Computing Notes/10-19 Concepts/14 All about TCPIP/14.005 Data Link Layer Protocols.md",
+    "Computing Notes/10-19 Concepts/14 All about TCPIP/14.004 Internetwork Layer Protocols.md",
+    "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.005 TCPIP Stack.md",
+    "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.004 Internet, Intranet, Extranet.md",
     "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.005 Network Interface Cards (NICs).md",
     "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.004 Wi-Fi Router.md",
     "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.003 Wireless Access Points (WAP).md",
@@ -230,17 +237,10 @@
     "Computing Notes/10-19 Concepts/15  LINUX/15.002 Using VMware.md",
     "Computing Notes/10-19 Concepts/15  LINUX/15.001 Overview of Linux.md",
     "Computing Notes/10-19 Concepts/15  LINUX",
-    "Computing Notes/10-19 Concepts/14 All about TCPIP/14.002 Telnet vs SSH.md",
-    "Computing Notes/10-19 Concepts/14 All about TCPIP/14.001 What is TCPIP.md",
     "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.006 ARP.md",
     "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.001 Network Repeaters and Hubs.md",
-    "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.005 TCPIP Stack.md",
     "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.003 DHCP.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.025 Frames and Packets.md",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.024 Signal Attenuation.md",
-    "Computing Notes/10-19 Concepts/14 All about TCPIP/14.003 Transport Layer Protocols.md",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.034 Telnet.md",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.033 SSH.md",
     "Pasted image 20240625111535.png",
     "Pasted image 20240625105602.png",
     "Pasted image 20240625104707.png",
