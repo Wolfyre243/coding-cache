@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.008 TCP.md",
+                "file": "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.007 The OSI Model.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.008 TCP.md",
+                "file": "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.007 The OSI Model.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.008 TCP.md",
+                "file": "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.007 The OSI Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.008 TCP.md"
+                "file": "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.007 The OSI Model.md"
               }
             }
           }
@@ -162,9 +162,9 @@
   },
   "active": "73a6196d77b0dc63",
   "lastOpenFiles": [
+    "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.008 TCP.md",
     "Computing Notes/10-19 Concepts/14 All about TCPIP/14.005 Data Link Layer Protocols.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.030 DNS.md",
-    "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.008 TCP.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.033 SSH.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.036 Ports.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.035 CRC.md",
