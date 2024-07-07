@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.007 The OSI Model.md",
+                "file": "Computing Notes/10-19 Concepts/15  LINUX/15.001 Overview of Linux.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.007 The OSI Model.md",
+                "file": "Computing Notes/10-19 Concepts/15  LINUX/15.001 Overview of Linux.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.007 The OSI Model.md",
+                "file": "Computing Notes/10-19 Concepts/15  LINUX/15.001 Overview of Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.007 The OSI Model.md"
+                "file": "Computing Notes/10-19 Concepts/15  LINUX/15.001 Overview of Linux.md"
               }
             }
           }
@@ -162,6 +162,7 @@
   },
   "active": "73a6196d77b0dc63",
   "lastOpenFiles": [
+    "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.007 The OSI Model.md",
     "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.008 TCP.md",
     "Computing Notes/10-19 Concepts/14 All about TCPIP/14.005 Data Link Layer Protocols.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.030 DNS.md",
@@ -187,7 +188,6 @@
     "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.003 Wireless Access Points (WAP).md",
     "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.002 Network Switches.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.023 IP Addresses.md",
-    "Computing Notes/10-19 Concepts/15  LINUX/15.003 Hypervisors.md",
     "Computing Notes/10-19 Concepts/15  LINUX",
     "Pasted image 20240625111535.png",
     "Pasted image 20240625105602.png",
