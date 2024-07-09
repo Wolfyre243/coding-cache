@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.008 TCP.md",
+                "file": "Computing Notes/10-19 Concepts/16 File Organisation/16.002 Tar.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.008 TCP.md",
+                "file": "Computing Notes/10-19 Concepts/16 File Organisation/16.002 Tar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.008 TCP.md",
+                "file": "Computing Notes/10-19 Concepts/16 File Organisation/16.002 Tar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.008 TCP.md"
+                "file": "Computing Notes/10-19 Concepts/16 File Organisation/16.002 Tar.md"
               }
             }
           }
@@ -163,6 +163,8 @@
   },
   "active": "8b4674c7d403bf96",
   "lastOpenFiles": [
+    "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.008 TCP.md",
+    "Computing Notes/10-19 Concepts/16 File Organisation/16.002 Tar.md",
     "Computing Notes/10-19 Concepts/14 All about TCPIP/14.001 What is TCPIP.md",
     "Computing Notes/10-19 Concepts/16 File Organisation/16.001 Directories.md",
     "Computing Notes/10-19 Concepts/15  LINUX/15.005 Linux Command List.md",
@@ -174,7 +176,6 @@
     "conflict-files-obsidian-git.md",
     "Computing Notes/10-19 Concepts/15  LINUX/15.001 Overview of Linux.md",
     "Computing Notes/10-19 Concepts/15  LINUX/15.002 Using VMware.md",
-    "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.008 TCP.md",
     "Computing Notes/10-19 Concepts/14 All about TCPIP/14.005 Data Link Layer Protocols.md",
     "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.009 UDP.md",
     "Computing Notes/10-19 Concepts/14 All about TCPIP/14.006 Physical Layer.md",
@@ -191,7 +192,6 @@
     "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.005 Network Interface Cards (NICs).md",
     "Computing Notes/10-19 Concepts/14 All about TCPIP/14.002 Transport Layer Protocols.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.009 Functional Units.md",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.010 Bits and Bytes.md",
     "Pasted image 20240624225903.png",
     "Pasted image 20240624225447.png",
     "Pasted image 20240624220142.png",
