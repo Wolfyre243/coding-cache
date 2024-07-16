@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/15  LINUX/15.005 Linux Command List.md",
+                "file": "Computing Notes/10-19 Concepts/15  LINUX/15.006 Apache Stuff.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/15  LINUX/15.005 Linux Command List.md",
+                "file": "Computing Notes/10-19 Concepts/15  LINUX/15.006 Apache Stuff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/15  LINUX/15.005 Linux Command List.md",
+                "file": "Computing Notes/10-19 Concepts/15  LINUX/15.006 Apache Stuff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/15  LINUX/15.005 Linux Command List.md"
+                "file": "Computing Notes/10-19 Concepts/15  LINUX/15.006 Apache Stuff.md"
               }
             }
           }
@@ -163,11 +163,12 @@
   },
   "active": "8b4674c7d403bf96",
   "lastOpenFiles": [
-    "Computing Notes/10-19 Concepts/17 Network Configuration/17.002 Resolving Domain Names (DNS).md",
     "Computing Notes/10-19 Concepts/17 Network Configuration/17.001 Static and Dynamic Netplan Config.md",
+    "Computing Notes/10-19 Concepts/15  LINUX/15.006 Apache Stuff.md",
+    "Computing Notes/10-19 Concepts/15  LINUX/15.005 Linux Command List.md",
+    "Computing Notes/10-19 Concepts/17 Network Configuration/17.002 Resolving Domain Names (DNS).md",
     "Computing Notes/10-19 Concepts/17 Network Configuration/17.003 TCPIP and Network Commands.md",
     "Computing Notes/10-19 Concepts/17 Network Configuration/17.004 ARP in Linux.md",
-    "Computing Notes/10-19 Concepts/15  LINUX/15.005 Linux Command List.md",
     "Computing Notes/10-19 Concepts/17 Network Configuration",
     "Computing Notes/10-19 Concepts/15  LINUX/15.004 Actually using Linux.md",
     "Computing Notes/10-19 Concepts/16 File Organisation/16.002 Tar.md",
@@ -192,7 +193,6 @@
     "Pasted image 20240625105602.png",
     "Pasted image 20240625104707.png",
     "Computing Notes/20-29 Definitions/21 Terminology/21.035 CRC.md",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.033 SSH.md",
     "Pasted image 20240624225903.png",
     "Pasted image 20240624225447.png",
     "Pasted image 20240624220142.png",
