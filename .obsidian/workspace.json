@@ -32,9 +32,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ec831f5898bf88f2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -161,7 +171,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8b4674c7d403bf96",
+  "active": "ec831f5898bf88f2",
   "lastOpenFiles": [
     "Computing Notes/10-19 Concepts/15  LINUX/15.005 Linux Command List.md",
     "Computing Notes/10-19 Concepts/16 File Organisation/16.003 Changing file perms.md",
