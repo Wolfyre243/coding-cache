@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/18 Creating Users and Group Perms/18.001 Creating new users.md",
+                "file": "Computing Notes/10-19 Concepts/18 Creating Users and Group Perms/18.002 User groups.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/18 Creating Users and Group Perms/18.001 Creating new users.md",
+                "file": "Computing Notes/10-19 Concepts/18 Creating Users and Group Perms/18.002 User groups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/18 Creating Users and Group Perms/18.001 Creating new users.md",
+                "file": "Computing Notes/10-19 Concepts/18 Creating Users and Group Perms/18.002 User groups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/18 Creating Users and Group Perms/18.001 Creating new users.md"
+                "file": "Computing Notes/10-19 Concepts/18 Creating Users and Group Perms/18.002 User groups.md"
               }
             }
           }
@@ -163,8 +163,8 @@
   },
   "active": "8b4674c7d403bf96",
   "lastOpenFiles": [
-    "Computing Notes/10-19 Concepts/18 Creating Users and Group Perms/18.002 User groups.md",
     "Computing Notes/10-19 Concepts/18 Creating Users and Group Perms/18.001 Creating new users.md",
+    "Computing Notes/10-19 Concepts/18 Creating Users and Group Perms/18.002 User groups.md",
     "Computing Notes/10-19 Concepts/17 Network Configuration/17.003 TCPIP and Network Commands.md",
     "Computing Notes/10-19 Concepts/18 Creating Users and Group Perms",
     "Computing Notes/10-19 Concepts/17 Network Configuration/17.004 ARP in Linux.md",
