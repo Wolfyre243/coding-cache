@@ -29,9 +29,22 @@
                 "currentVersion": "1.6.7"
               }
             }
+          },
+          {
+            "id": "65de862b28ab8012",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/17 Network Configuration/17.002 Resolving Domain Names (DNS).md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/17 Network Configuration/17.002 Resolving Domain Names (DNS).md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/17 Network Configuration/17.002 Resolving Domain Names (DNS).md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -157,8 +170,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "719b57b2347772ce",
+  "active": "65de862b28ab8012",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Computing Notes/10-19 Concepts/19 HTTPD/19.001 Apache HTTPD.md",
+    "Computing Notes/10-19 Concepts/19 HTTPD",
+    "Computing Notes/10-19 Concepts/18 Creating Users and Group Perms/18.002 User groups.md",
+    "Computing Notes/10-19 Concepts/18 Creating Users and Group Perms/18.001 Creating new users.md",
+    "Computing Notes/10-19 Concepts/18 Creating Users and Group Perms",
+    "Computing Notes/10-19 Concepts/16 File Organisation/16.003 Changing file perms.md",
     "Computing Notes/10-19 Concepts/17 Network Configuration/17.003 TCPIP and Network Commands.md",
     "Computing Notes/10-19 Concepts/17 Network Configuration/17.002 Resolving Domain Names (DNS).md",
     "Computing Notes/10-19 Concepts/17 Network Configuration/17.001 Static and Dynamic Netplan Config.md",
@@ -182,11 +202,6 @@
     "Computing Notes/10-19 Concepts/14 All about TCPIP/14.004 Internetwork Layer Protocols.md",
     "Computing Notes/10-19 Concepts/14 All about TCPIP/14.002 Telnet vs SSH.md",
     "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.007 The OSI Model.md",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.030 DNS.md",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.033 SSH.md",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.035 CRC.md",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.025 Frames and Packets.md",
-    "conflict-files-obsidian-git.md",
     "Computing Notes/10-19 Concepts/15  LINUX",
     "Pasted image 20240625111535.png",
     "Pasted image 20240625105602.png",
@@ -204,8 +219,6 @@
     "Computing Notes/10-19 Concepts/11 Digital Representation",
     "Computing Notes/20-29 Definitions/21 Terminology/21.007X Cache Memory Diagram.canvas",
     "Programming Survival Guide/10-19 Concepts/14 JavaScript",
-    "Programming Survival Guide/00 - 09 Adminstration",
-    "Math part 2/1 Matrices",
-    "Math part 2"
+    "Programming Survival Guide/00 - 09 Adminstration"
   ]
 }
