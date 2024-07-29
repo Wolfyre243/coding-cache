@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/16 File Organisation/16.002 Tar.md",
+                "file": "Computing Notes/10-19 Concepts/20 Monitoring Services/20.001 Log Files.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/16 File Organisation/16.002 Tar.md",
+                "file": "Computing Notes/10-19 Concepts/20 Monitoring Services/20.001 Log Files.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/16 File Organisation/16.002 Tar.md",
+                "file": "Computing Notes/10-19 Concepts/20 Monitoring Services/20.001 Log Files.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/16 File Organisation/16.002 Tar.md"
+                "file": "Computing Notes/10-19 Concepts/20 Monitoring Services/20.001 Log Files.md"
               }
             }
           }
@@ -176,8 +176,12 @@
   },
   "active": "ec831f5898bf88f2",
   "lastOpenFiles": [
-    "Computing Notes/10-19 Concepts/16 File Organisation/16.001 Directories.md",
+    "Computing Notes/10-19 Concepts/15  LINUX/15.006 Apache Stuff.md",
+    "Computing Notes/10-19 Concepts/20 Monitoring Services/20.001 Log Files.md",
+    "Computing Notes/10-19 Concepts/20 Monitoring Services",
     "Computing Notes/10-19 Concepts/19 HTTPD/19.001 Apache HTTPD.md",
+    "Computing Notes/10-19 Concepts/16 File Organisation/16.002 Tar.md",
+    "Computing Notes/10-19 Concepts/16 File Organisation/16.001 Directories.md",
     "Computing Notes/10-19 Concepts/18 Creating Users and Group Perms/18.001 Creating new users.md",
     "Computing Notes/10-19 Concepts/19 HTTPD",
     "Computing Notes/10-19 Concepts/18 Creating Users and Group Perms/18.002 User groups.md",
@@ -188,10 +192,8 @@
     "Computing Notes/10-19 Concepts/17 Network Configuration/17.002 Resolving Domain Names (DNS).md",
     "Computing Notes/10-19 Concepts/17 Network Configuration/17.004 ARP in Linux.md",
     "Computing Notes/10-19 Concepts/17 Network Configuration/17.001 Static and Dynamic Netplan Config.md",
-    "Computing Notes/10-19 Concepts/16 File Organisation/16.002 Tar.md",
     "Computing Notes/10-19 Concepts/17 Network Configuration/17.003 TCPIP and Network Commands.md",
     "Computing Notes/10-19 Concepts/18 Creating Users and Group Perms",
-    "Computing Notes/10-19 Concepts/15  LINUX/15.006 Apache Stuff.md",
     "Computing Notes/10-19 Concepts/17 Network Configuration",
     "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.008 TCP.md",
     "Computing Notes/10-19 Concepts/14 All about TCPIP/14.001 What is TCPIP.md",
@@ -205,7 +207,6 @@
     "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.009 UDP.md",
     "Computing Notes/10-19 Concepts/14 All about TCPIP/14.006 Physical Layer.md",
     "Pasted image 20240625111535.png",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.036 Ports.md",
     "Pasted image 20240625105602.png",
     "Pasted image 20240625104707.png",
     "Pasted image 20240624225903.png",
