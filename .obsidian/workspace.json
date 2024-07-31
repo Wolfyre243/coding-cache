@@ -4,50 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "744f1fc1d1123053",
+        "id": "0053d852974aecdc",
         "type": "tabs",
         "children": [
           {
-            "id": "3626653b06881ba7",
+            "id": "27c8c8aa2e944ae0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/14 All about TCPIP/14.001 What is TCPIP.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8b4674c7d403bf96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computing Notes/10-19 Concepts/16 File Organisation/16.003 Changing file perms.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec831f5898bf88f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computing Notes/10-19 Concepts/20 Monitoring Services/20.001 Log Files.md",
+                "file": "Computing Notes/10-19 Concepts/16 File Organisation/16.002 Tar.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,10 +49,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dns",
+                "query": "80",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -113,9 +86,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/20 Monitoring Services/20.001 Log Files.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "Computing Notes/10-19 Concepts/16 File Organisation/16.002 Tar.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -130,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/20 Monitoring Services/20.001 Log Files.md",
+                "file": "Computing Notes/10-19 Concepts/16 File Organisation/16.002 Tar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/20 Monitoring Services/20.001 Log Files.md"
+                "file": "Computing Notes/10-19 Concepts/16 File Organisation/16.002 Tar.md"
               }
             }
           }
@@ -161,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,38 +146,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ec831f5898bf88f2",
+  "active": "27c8c8aa2e944ae0",
   "lastOpenFiles": [
-    "Computing Notes/10-19 Concepts/15  LINUX/15.006 Apache Stuff.md",
     "Computing Notes/10-19 Concepts/20 Monitoring Services/20.001 Log Files.md",
     "Computing Notes/10-19 Concepts/20 Monitoring Services",
-    "Computing Notes/10-19 Concepts/19 HTTPD/19.001 Apache HTTPD.md",
-    "Computing Notes/10-19 Concepts/16 File Organisation/16.002 Tar.md",
     "Computing Notes/10-19 Concepts/16 File Organisation/16.001 Directories.md",
-    "Computing Notes/10-19 Concepts/18 Creating Users and Group Perms/18.001 Creating new users.md",
-    "Computing Notes/10-19 Concepts/19 HTTPD",
-    "Computing Notes/10-19 Concepts/18 Creating Users and Group Perms/18.002 User groups.md",
-    "Computing Notes/10-19 Concepts/15  LINUX/15.005 Linux Command List.md",
     "Computing Notes/10-19 Concepts/16 File Organisation/16.003 Changing file perms.md",
-    "Computing Notes/10-19 Concepts/15  LINUX/15.004 Actually using Linux.md",
-    "Computing Notes/10-19 Concepts/15  LINUX/15.001 Overview of Linux.md",
-    "Computing Notes/10-19 Concepts/17 Network Configuration/17.002 Resolving Domain Names (DNS).md",
-    "Computing Notes/10-19 Concepts/17 Network Configuration/17.004 ARP in Linux.md",
+    "Computing Notes/10-19 Concepts/16 File Organisation/16.002 Tar.md",
     "Computing Notes/10-19 Concepts/17 Network Configuration/17.001 Static and Dynamic Netplan Config.md",
     "Computing Notes/10-19 Concepts/17 Network Configuration/17.003 TCPIP and Network Commands.md",
+    "Computing Notes/10-19 Concepts/17 Network Configuration/17.004 ARP in Linux.md",
+    "Computing Notes/10-19 Concepts/18 Creating Users and Group Perms/18.001 Creating new users.md",
+    "Computing Notes/10-19 Concepts/17 Network Configuration/17.002 Resolving Domain Names (DNS).md",
+    "conflict-files-obsidian-git.md",
+    "Computing Notes/10-19 Concepts/19 HTTPD/19.001 Apache HTTPD.md",
+    "Computing Notes/10-19 Concepts/19 HTTPD",
+    "Computing Notes/10-19 Concepts/18 Creating Users and Group Perms/18.002 User groups.md",
     "Computing Notes/10-19 Concepts/18 Creating Users and Group Perms",
+    "Computing Notes/10-19 Concepts/15  LINUX/15.006 Apache Stuff.md",
+    "Computing Notes/10-19 Concepts/15  LINUX/15.005 Linux Command List.md",
     "Computing Notes/10-19 Concepts/17 Network Configuration",
+    "Computing Notes/10-19 Concepts/15  LINUX/15.004 Actually using Linux.md",
+    "Computing Notes/10-19 Concepts/15  LINUX/15.001 Overview of Linux.md",
+    "Computing Notes/10-19 Concepts/15  LINUX/15.006 Directories.md",
+    "Computing Notes/10-19 Concepts/15  LINUX/15.002 Using VMware.md",
     "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.008 TCP.md",
+    "Computing Notes/10-19 Concepts/16 File Organisation",
     "Computing Notes/10-19 Concepts/14 All about TCPIP/14.001 What is TCPIP.md",
     "Computing Notes/10-19 Concepts/14 All about TCPIP/14.003 Transport Layer Protocols.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.036 Ports.md",
+    "Computing Notes/10-19 Concepts/14 All about TCPIP/14.006 Physical Layer.md",
+    "Computing Notes/10-19 Concepts/14 All about TCPIP/14.005 Data Link Layer Protocols.md",
     "Computing Notes/10-19 Concepts/14 All about TCPIP/14.004 Internetwork Layer Protocols.md",
     "Computing Notes/10-19 Concepts/14 All about TCPIP/14.002 Telnet vs SSH.md",
-    "Computing Notes/10-19 Concepts/15  LINUX/15.003 Hypervisors.md",
-    "conflict-files-obsidian-git.md",
-    "Computing Notes/10-19 Concepts/15  LINUX/15.002 Using VMware.md",
-    "Computing Notes/10-19 Concepts/14 All about TCPIP/14.005 Data Link Layer Protocols.md",
-    "Computing Notes/20-29 Definitions/20 Languages & Protocols/20.009 UDP.md",
-    "Computing Notes/10-19 Concepts/14 All about TCPIP/14.006 Physical Layer.md",
+    "Computing Notes/10-19 Concepts/15  LINUX",
     "Pasted image 20240625111535.png",
     "Pasted image 20240625105602.png",
     "Pasted image 20240625104707.png",
@@ -214,16 +188,13 @@
     "Pasted image 20240624220142.png",
     "Pasted image 20240624185210.png",
     "Pasted image 20240624102117.png",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.007X Cache Memory Diagram.canvas",
+    "Computing Notes/10-19 Concepts/14 All about TCPIP",
     "Pasted image 20240520114814.png",
     "Pasted image 20240520105735.png",
-    "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication",
     "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.006X Call Stack Diagram.canvas",
-    "Programming Survival Guide/00 - 09 Adminstration/00",
-    "Programming Survival Guide/00 - 09 Adminstration",
-    "Programming Survival Guide/10-19 Concepts/14 JavaScript",
-    "Untitled.canvas",
-    "Math part 2/1 Matrices",
-    "Math part 2"
+    "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices",
+    "Computing Notes/10-19 Concepts/11 Digital Representation",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.007X Cache Memory Diagram.canvas",
+    "Programming Survival Guide/10-19 Concepts/14 JavaScript"
   ]
 }
