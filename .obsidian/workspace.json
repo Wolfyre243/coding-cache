@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/17 Network Configuration/17.003 TCPIP and Network Commands.md",
+                "file": "Computing Notes/10-19 Concepts/15  LINUX/15.003 Hypervisors.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "761f1cd7cc24a0dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computing Notes/30-39 Virtual Machine Lab/test.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/17 Network Configuration/17.003 TCPIP and Network Commands.md",
+                "file": "Computing Notes/30-39 Virtual Machine Lab/test.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -117,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/17 Network Configuration/17.003 TCPIP and Network Commands.md",
+                "file": "Computing Notes/30-39 Virtual Machine Lab/test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/17 Network Configuration/17.003 TCPIP and Network Commands.md"
+                "file": "Computing Notes/30-39 Virtual Machine Lab/test.md"
               }
             }
           }
@@ -160,10 +173,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "609e2e2682757758",
+  "active": "761f1cd7cc24a0dd",
   "lastOpenFiles": [
-    "Computing Notes/10-19 Concepts/17 Network Configuration/17.004 ARP in Linux.md",
+    "Computing Notes/10-19 Concepts/15  LINUX/15.003 Hypervisors.md",
+    "Computing Notes/30-39 Virtual Machine Lab/test.md",
+    "Untitled",
+    "Computing Notes/30-39 Virtual Machine Lab",
     "Computing Notes/10-19 Concepts/17 Network Configuration/17.003 TCPIP and Network Commands.md",
+    "Computing Notes/10-19 Concepts/17 Network Configuration/17.004 ARP in Linux.md",
     "Computing Notes/10-19 Concepts/17 Network Configuration/17.002 Resolving Domain Names (DNS).md",
     "Computing Notes/10-19 Concepts/17 Network Configuration/17.001 Static and Dynamic Netplan Config.md",
     "Computing Notes/10-19 Concepts/16 File Organisation/16.003 Changing file perms.md",
@@ -173,7 +190,6 @@
     "Computing Notes/10-19 Concepts/15  LINUX/15.005 Linux Command List.md",
     "Computing Notes/10-19 Concepts/15  LINUX/15.004 Actually using Linux.md",
     "Computing Notes/10-19 Concepts/15  LINUX/15.002 Using VMware.md",
-    "Computing Notes/10-19 Concepts/15  LINUX/15.003 Hypervisors.md",
     "Computing Notes/10-19 Concepts/15  LINUX/15.001 Overview of Linux.md",
     "Computing Notes/10-19 Concepts/20 Monitoring Services/20.001 Log Files.md",
     "Computing Notes/10-19 Concepts/20 Monitoring Services",
@@ -192,7 +208,6 @@
     "Computing Notes/20-29 Definitions/21 Terminology/21.036 Ports.md",
     "Computing Notes/10-19 Concepts/14 All about TCPIP/14.006 Physical Layer.md",
     "Computing Notes/10-19 Concepts/14 All about TCPIP/14.005 Data Link Layer Protocols.md",
-    "Computing Notes/10-19 Concepts/14 All about TCPIP/14.004 Internetwork Layer Protocols.md",
     "Computing Notes/10-19 Concepts/15  LINUX",
     "Pasted image 20240625111535.png",
     "Pasted image 20240625105602.png",
@@ -207,8 +222,6 @@
     "Pasted image 20240520105735.png",
     "Programming Survival Guide/10-19 Concepts/12 Core Concepts/12.006X Call Stack Diagram.canvas",
     "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices",
-    "Computing Notes/10-19 Concepts/11 Digital Representation",
-    "Computing Notes/20-29 Definitions/21 Terminology/21.007X Cache Memory Diagram.canvas",
-    "Programming Survival Guide/10-19 Concepts/14 JavaScript"
+    "Computing Notes/20-29 Definitions/21 Terminology/21.007X Cache Memory Diagram.canvas"
   ]
 }
