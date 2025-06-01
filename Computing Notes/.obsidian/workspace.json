@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-09 Administration/hi.md",
-                "mode": "source",
+                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.005 BIOS & CMOS Fundamentals.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hi"
+              "title": "10.005 BIOS & CMOS Fundamentals"
             }
           },
           {
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-09 Administration/hi.md",
+                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.005 BIOS & CMOS Fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for hi"
+              "title": "Backlinks for 10.005 BIOS & CMOS Fundamentals"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00-09 Administration/hi.md",
+                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.005 BIOS & CMOS Fundamentals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from hi"
+              "title": "Outgoing links from 10.005 BIOS & CMOS Fundamentals"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-09 Administration/hi.md",
+                "file": "10-19 Concepts/10 Introduction to Computer Architecture/10.005 BIOS & CMOS Fundamentals.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of hi"
+              "title": "Outline of 10.005 BIOS & CMOS Fundamentals"
             }
           }
         ],
@@ -182,20 +182,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "337dbd148c813957",
+  "active": "5ff9fe72b6cd992c",
   "lastOpenFiles": [
+    "10-19 Concepts/10 Introduction to Computer Architecture/10.004 IO Polling & Interrupt.md",
     "10-19 Concepts/10 Introduction to Computer Architecture/10.003 Buses.md",
     "10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
+    "10-19 Concepts/10 Introduction to Computer Architecture/10.001 Basic Function of Computers.md",
+    "00-09 Administration/hi.md",
     "20-29 Definitions/21 Terminology/21.007 Cache Memory.md",
     "20-29 Definitions/21 Terminology/21.007X Cache Memory Diagram.canvas",
-    "10-19 Concepts/10 Introduction to Computer Architecture/10.001 Basic Function of Computers.md",
     "10-19 Concepts/10 Introduction to Computer Architecture/10.006 Fundamentals of Network Communication.md",
     "10-19 Concepts/10 Introduction to Computer Architecture/10.007 Types of Computers.md",
     "10-19 Concepts/10 Introduction to Computer Architecture/10.005 BIOS & CMOS Fundamentals.md",
     "20-29 Definitions/21 Terminology/21.008 ROM.md",
     "20-29 Definitions/21 Terminology/21.006 Flash Memory.md",
     "20-29 Definitions/21 Terminology/21.002 Cores.md",
-    "10-19 Concepts/10 Introduction to Computer Architecture/10.004 IO Polling & Interrupt.md",
     "20-29 Definitions/20 Languages & Protocols/PHP.md",
     "20-29 Definitions/21 Terminology/21.005 Operating Systems.md",
     "20-29 Definitions/21 Terminology/21.001 Virtual Memory.md",
@@ -210,7 +211,6 @@
     "20-29 Definitions/20 Languages & Protocols",
     "20-29 Definitions",
     "10-19 Concepts/11 Computer Networks & Hardware Essentials/Untitled.md",
-    "00-09 Administration/hi.md",
     "10-19 Concepts/16 Client-Server Architecture and Cloud Computing/Untitled.md",
     "10-19 Concepts/15 Linux Resource Management Fundamentals/Untitled.md",
     "10-19 Concepts/14 Linux System Organisation/Untitled.md",
