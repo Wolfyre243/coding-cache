@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0053d852974aecdc",
+        "id": "3da82d9a485bd4a9",
         "type": "tabs",
         "children": [
           {
-            "id": "27c8c8aa2e944ae0",
+            "id": "90021c88ff0f9df9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/15  LINUX/15.002 Using VMware.md",
+                "file": "Computing Notes/_TOC_.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "15.002 Using VMware"
+              "title": "_TOC_"
             }
           },
           {
-            "id": "609e2e2682757758",
+            "id": "c8608d44fac4ca8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/15  LINUX/15.003 Hypervisors.md",
+                "file": "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.001 Network Components.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "15.003 Hypervisors"
+              "title": "12.001 Network Components"
             }
           },
           {
-            "id": "761f1cd7cc24a0dd",
+            "id": "9c7f793cd62641bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/17 Network Configuration/17.001 Static and Dynamic Netplan Config.md",
+                "file": "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.005 TCPIP Stack.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,16 +76,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "17.001 Static and Dynamic Netplan Config"
+              "title": "12.005 TCPIP Stack"
             }
           },
           {
-            "id": "5fc56625e119d8a4",
+            "id": "f70d834592505b93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Survival Guide/20-29 The Cache/22 Library/22.001 How to set up a Linter.md",
+                "file": "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.004 Internet, Intranet, Extranet.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,16 +100,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "22.001 How to set up a Linter"
+              "title": "12.004 Internet, Intranet, Extranet"
             }
           },
           {
-            "id": "e97f737d9fd41410",
+            "id": "50b2d86bf3f8a83f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
+                "file": "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.001 Network Repeaters and Hubs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,107 +124,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "10.002 Components of a Computer"
-            }
-          },
-          {
-            "id": "17d43a2d64c647a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.006 Fundamentals of Network Communication.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "10.006 Fundamentals of Network Communication"
-            }
-          },
-          {
-            "id": "9cace80103050aa2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.004 IO Polling & Interrupt.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "10.004 IO Polling & Interrupt"
-            }
-          },
-          {
-            "id": "d1c9aceb5bccf1f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.008 Operation of a Computer (summarised).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "10.008 Operation of a Computer (summarised)"
-            }
-          },
-          {
-            "id": "e20e09ef46a58516",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.007 Types of Computers.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "10.007 Types of Computers"
+              "title": "13.001 Network Repeaters and Hubs"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -297,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.007 Types of Computers.md",
+                "file": "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.001 Network Repeaters and Hubs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -307,7 +211,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 10.007 Types of Computers"
+              "title": "Backlinks for 13.001 Network Repeaters and Hubs"
             }
           },
           {
@@ -316,12 +220,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.007 Types of Computers.md",
+                "file": "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.001 Network Repeaters and Hubs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 10.007 Types of Computers"
+              "title": "Outgoing links from 13.001 Network Repeaters and Hubs"
             }
           },
           {
@@ -345,13 +249,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.007 Types of Computers.md",
+                "file": "Computing Notes/10-19 Concepts/13 Understanding Operations of Network Devices/13.001 Network Repeaters and Hubs.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 10.007 Types of Computers"
+              "title": "Outline of 13.001 Network Repeaters and Hubs"
             }
           }
         ]
@@ -370,34 +274,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e20e09ef46a58516",
+  "active": "50b2d86bf3f8a83f",
   "lastOpenFiles": [
+    "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.004 Internet, Intranet, Extranet.md",
+    "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.005 TCPIP Stack.md",
+    "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.001 Network Components.md",
+    "Computing Notes/_TOC_.md",
+    "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.003 Communicating on a LAN.md",
+    "Computing Notes/10-19 Concepts/12 Fundamentals of Network Communication/12.002 Steps of Network Communication.md",
+    "Computing Notes/10-19 Concepts/11 Digital Representation/11.005 Add & Sub in Binary.md",
+    "Computing Notes/10-19 Concepts/11 Digital Representation/11.004 Representing Number.md",
+    "Computing Notes/10-19 Concepts/11 Digital Representation/11.002 Representing Sound.md",
+    "Computing Notes/10-19 Concepts/11 Digital Representation/11.003 Encoding Images.md",
+    "Computing Notes/10-19 Concepts/11 Digital Representation/11.001 Representing Characters and Text.md",
+    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.012 Multi-Threading.md",
+    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.011 Performance.md",
+    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.010 Instructions and Programs.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.035 CRC.md",
+    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.009 Functional Units.md",
+    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.007 Types of Computers.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.008 Operation of a Computer (summarised).md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.004 IO Polling & Interrupt.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.036 Ports.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.032 CIDR.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.034 Telnet.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.033 SSH.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.006 Fundamentals of Network Communication.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.005 BIOS & CMOS Fundamentals.md",
     "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.003 Buses.md",
-    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.002 Components of a Computer.md",
-    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.001 Basic Function of Computers.md",
-    "Computing Notes/00-09 Administration/hi.md",
-    "Programming Survival Guide/20-29 The Cache/22 Library/22.001 How to set up a Linter.md",
-    "Programming Survival Guide/20-29 The Cache/22 Library/22.001 Node Package Manager (npm).md",
-    "Computing Notes/10-19 Concepts/17 Network Configuration/17.001 Static and Dynamic Netplan Config.md",
-    "conflict-files-obsidian-git.md",
-    "Computing Notes/10-19 Concepts/20 Monitoring Services/20.001 Log Files.md",
-    "Computing Notes/10-19 Concepts/17 Network Configuration/17.003 TCPIP and Network Commands.md",
-    "Computing Notes/10-19 Concepts/17 Network Configuration/17.004 ARP in Linux.md",
-    "Computing Notes/10-19 Concepts/15  LINUX/15.006 Apache Stuff.md",
-    "Computing Notes/10-19 Concepts/15  LINUX/15.005 Linux Command List.md",
-    "Computing Notes/10-19 Concepts/15  LINUX/15.004 Actually using Linux.md",
-    "Computing Notes/10-19 Concepts/15  LINUX/15.003 Hypervisors.md",
-    "Computing Notes/10-19 Concepts/15  LINUX/15.002 Using VMware.md",
-    "Computing Notes/10-19 Concepts/15  LINUX/15.001 Overview of Linux.md",
-    "Computing Notes/10-19 Concepts/18 Creating Users and Group Perms/18.001 Creating new users.md",
-    "Computing Notes/10-19 Concepts/14 All about TCPIP/14.001 What is TCPIP.md",
-    "Computing Notes/10-19 Concepts/16 File Organisation/16.001 Directories.md",
-    "Computing Notes/10-19 Concepts/17 Network Configuration/17.002 Resolving Domain Names (DNS).md",
-    "Computing Notes/10-19 Concepts/19 HTTPD/19.001 Apache HTTPD.md",
     "Untitled",
     "Computing Notes/30-39 Virtual Machine Lab",
     "Computing Notes/10-19 Concepts/20 Monitoring Services",
