@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Computing Notes/_TOC_.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -251,9 +251,6 @@
   },
   "active": "90021c88ff0f9df9",
   "lastOpenFiles": [
-    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.012 Multi-Threading.md",
-    "Computing Notes/_TOC_.md",
-    "Computing Notes/10-19 Concepts/10 Introduction to Computer Architecture/10.001 Basic Function of Computers.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.036 Ports.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.035 CRC.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.034 Telnet.md",
@@ -277,6 +274,9 @@
     "Computing Notes/20-29 Definitions/21 Terminology/21.016 Unicode.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.015 Accumulator.md",
     "Computing Notes/20-29 Definitions/21 Terminology/21.014 General-Purpose Register.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.013 Instruction Register.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.012 Program Counter Register.md",
+    "Computing Notes/20-29 Definitions/21 Terminology/21.011 Parallelism.md",
     "Untitled",
     "Computing Notes/30-39 Virtual Machine Lab",
     "Computing Notes/10-19 Concepts/20 Monitoring Services",
